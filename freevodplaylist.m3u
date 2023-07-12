@@ -1,102 +1,322 @@
 #EXTM3U
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", A2Z
+http://bisdaktv.serv00.net/jam.php?channel=37243
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", ALJAZERA
+http://bisdaktv.serv00.net/jam.php?channel=37274
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", ANC
+http://bisdaktv.serv00.net/jam.php?channel=37270
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", ANGEL TV
+http://bisdaktv.serv00.net/jam.php?channel=37259
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", ANIMAL PLANET
+http://bisdaktv.serv00.net/jam.php?channel=37307
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", Animax 
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1a:79:bf:cd:9c&stream=731865&extension=ts&play_token=Q2BaDIpOBj
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", ANIPLUS
+http://bisdaktv.serv00.net/jam.php?channel=37313
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", AXN
+http://bisdaktv.serv00.net/jam.php?channel=37288
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", BBC EARTH
+http://bisdaktv.serv00.net/jam.php?channel=37275
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", BUKO
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1a:79:bf:cd:9c&stream=926198&extension=ts&play_token=yVoUcDEbEs
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", CARTOON NETWORK
+http://bisdaktv.serv00.net/jam.php?channel=37311
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", Cbeebies 
+http://bisdaktv.serv00.net/jam.php?channel=37312
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", CELESTIAL MOVIES PINOY
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1a:79:bf:cd:9c&stream=731860&extension=ts&play_token=mwzt1o0lxe
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", CGTN
+http://bisdaktv.serv00.net/jam.php?channel=37262
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", CINEMA ONE
+http://bisdaktv.serv00.net/jam.php?channel=37267
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", CINEMAX
+http://bisdaktv.serv00.net/jam.php?channel=37287
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", CINEMO
+http://bisdaktv.serv00.net/jam.php?channel=37278
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", CINEMUNDO PINOY
+http://bisdaktv.serv00.net/jam.php?channel=37318
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", CNA
+http://bisdaktv.serv00.net/jam.php?channel=37271
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", CNN INTERNATIONAL
+http://bisdaktv.serv00.net/jam.php?channel=37273
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", CNN PHILIPPINES
+http://bisdaktv.serv00.net/jam.php?channel=37272
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", COMIC U
+http://bisdaktv.serv00.net/jam.php?channel=37289
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", DEPED TV
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1a:79:bf:cd:9c&stream=926186&extension=ts&play_token=mwzt1o0lxe
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", DISCOVERY ASIA
+http://bisdaktv.serv00.net/jam.php?channel=37304
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", DISCOVERY SCIENCE
+http://bisdaktv.serv00.net/jam.php?channel=37303
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", DISNEY XD
+http://bisdaktv.serv00.net/jam.php?channel=37316
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", DZBB
+http://bisdaktv.serv00.net/jam.php?channel=37255
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", DZMM
+http://bisdaktv.serv00.net/jam.php?channel=37254
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", DZRH
+http://bisdaktv.serv00.net/jam.php?channel=37256
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", E! offline 
+http://bisdaktv.serv00.net/jam.php?channel=37295
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", EFIX HITS
+http://bisdaktv.serv00.net/jam.php?channel=37296
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", ESPN
+http://bisdaktv.serv00.net/jam.php?channel=37280
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", FIGHT SPORTS HD
+http://bisdaktv.serv00.net/jam.php?channel=37317
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", FOOD NETWORK
+http://bisdaktv.serv00.net/jam.php?channel=37302
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", FOX SPORTS
+http://bisdaktv.serv00.net/jam.php?channel=37282
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", GCTV
+http://bisdaktv.serv00.net/jam.php?channel=37253
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", GMA LIFE
+http://bisdaktv.serv00.net/jam.php?channel=37251
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", GMA NEWS TV
+http://bisdaktv.serv00.net/jam.php?channel=37252
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", GMA PINOY
+http://bisdaktv.serv00.net/jam.php?channel=37250
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", GMA7
+http://bisdaktv.serv00.net/jam.php?channel=37249
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", GOLF
+http://bisdaktv.serv00.net/jam.php?channel=37279
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", HBO
+http://bisdaktv.serv00.net/jam.php?channel=37284
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", HBO FAMILY
+http://bisdaktv.serv00.net/jam.php?channel=37297
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", HBO SIGNATURE
+http://bisdaktv.serv00.net/jam.php?channel=37298
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", HISTORY Arirang
+http://bisdaktv.serv00.net/jam.php?channel=37299
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", HITS
+http://bisdaktv.serv00.net/jam.php?channel=37291
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", IBC13
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1a:79:bf:cd:9c&stream=731830&extension=ts&play_token=mwzt1o0lxe
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", JEEPNEY TV
+http://bisdaktv.serv00.net/jam.php?channel=37244
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", KAPAMILYA CHANNEL
+http://bisdaktv.serv00.net/jam.php?channel=37242
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", KNOWLEGE CHANNEL
+http://bisdaktv.serv00.net/jam.php?channel=37268
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", MTV ASIA
+http://bisdaktv.serv00.net/jam.php?channel=37301
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", MYX
+http://bisdaktv.serv00.net/jam.php?channel=37300
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", NAT GEO WILD
+http://bisdaktv.serv00.net/jam.php?channel=37305
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", NBA PH
+http://bisdaktv.serv00.net/jam.php?channel=37265
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", NICK JR
+http://bisdaktv.serv00.net/jam.php?channel=37314
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", ONE NEWS
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1a:79:bf:cd:9c&stream=926160&extension=ts&play_token=mwzt1o0lxe
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", ONE PH
+http://bisdaktv.serv00.net/jam.php?channel=37263
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", ONE SPORTS
+http://bisdaktv.serv00.net/jam.php?channel=37264
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", PBA RUSH
+http://bisdaktv.serv00.net/jam.php?channel=37266
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", PBO
+http://bisdaktv.serv00.net/jam.php?channel=37276
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", PREMIER FOOTBALL
+http://bisdaktv.serv00.net/jam.php?channel=37283
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", PTV offline 
+http://bisdaktv.serv00.net/jam.php?channel=37248
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", ROCK ACTION
+http://bisdaktv.serv00.net/jam.php?channel=37290
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", SARI SARI offline 
+http://bisdaktv.serv00.net/jam.php?channel=37320
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", SMNI
+http://bisdaktv.serv00.net/jam.php?channel=37258
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", TFC
+http://bisdaktv.serv00.net/jam.php?channel=37241
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", THRILL
+http://bisdaktv.serv00.net/jam.php?channel=37292
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", TRAVEL
+http://bisdaktv.serv00.net/jam.php?channel=37309
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", TV5
+http://bisdaktv.serv00.net/jam.php?channel=37245
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", TV5 HD
+http://bisdaktv.serv00.net/jam.php?channel=37246
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", UAAP VARSITY
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1a:79:bf:cd:9c&stream=926145&extension=ts&play_token=mwzt1o0lxe
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", UNTV
+http://bisdaktv.serv00.net/jam.php?channel=37261
+
+#EXTINF:0 tvg-logo="noimage.png" group-title="Bisdak Cable TV", WIGH
+http://bisdaktv.serv00.net/jam.php?channel=37286
+
 -----HOLLYWOODMOVIES-----
 //Alternative server eerht.artdesigncdn.net eno.dokicloud.one owt.24hoursuptodatecdn.net rouf.magnewscontent.org owt.webarchivecdn.com xis.fifteennet.com
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/60/4e/604e3f896c8613a9e59c103d69ed3c45/604e3f896c8613a9e59c103d69ed3c45.jpg" group-title="HOLLYWOOD MOVIES",SIMULANT (2023)
-https://evif.onthecloudcdn.com/_v10/f1d6ab85cd86b51dcb553a99b23398d821f8eb7cea8e2a674494bd82fea13ec5b3175458d77009875fc2a620e36d0dab125dbd1a5a78afdf41b401699e97aa5ef33f2b892afa137a7bd296d5db7a1e3955fffa0c110e493036bcc8dd880846f406d039fa3f5d5513c8658e931b187b85fa40d8f9e326c7ce552b068efb91d05d/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/f1d6ab85cd86b51dcb553a99b23398d821f8eb7cea8e2a674494bd82fea13ec5b3175458d77009875fc2a620e36d0dab125dbd1a5a78afdf41b401699e97aa5ef33f2b892afa137a7bd296d5db7a1e3955fffa0c110e493036bcc8dd880846f406d039fa3f5d5513c8658e931b187b85fa40d8f9e326c7ce552b068efb91d05d/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/77/0b/770bb7c82e942d8e42d93259a89d0651/770bb7c82e942d8e42d93259a89d0651.jpg" group-title="HOLLYWOOD MOVIES",DUNGEONS & DRAGONS: HONOR AMONG THIEVES (2023)
-https://evif.onthecloudcdn.com/_v10/1cd3ee646ddba99f88de8ff1971f33a393a1122159fa73950ae30c57b3d2c0f6bd0292ae2c118c83f1cd48c972425fb36462ee67c7ff0df04bbe9bbd193b4166354d37d5234ddbd929bf1d02cc1e1d4d9199cfe6d209554154c8d3194fca35a3b746693130fb17654f8116b47db4a413cd4e46b783ce9384d2c21b02b549c137/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/1cd3ee646ddba99f88de8ff1971f33a393a1122159fa73950ae30c57b3d2c0f6bd0292ae2c118c83f1cd48c972425fb36462ee67c7ff0df04bbe9bbd193b4166354d37d5234ddbd929bf1d02cc1e1d4d9199cfe6d209554154c8d3194fca35a3b746693130fb17654f8116b47db4a413cd4e46b783ce9384d2c21b02b549c137/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/08/be/08be6e80b6bc3aaf6963a0ab5a3fae16/08be6e80b6bc3aaf6963a0ab5a3fae16.jpg" group-title="HOLLYWOOD MOVIES",THE POPE'S EXORCIST (2023)
-https://evif.onthecloudcdn.com/_v10/f9b21128044757d2102fdf37c20c2136a84f28b810de4c9bc19e491451815cf1e0292ed4e0b884351adee8541116ad0637fbfe3ebbed4bc7ffcf63085f265df3cf7dfa73cb1240e7f69a76c083613e75b0023ebef138b33b7d618e9604b578f4acdcbda75126d45797fb03206c984e09ef7bc34e2a207010f010ae0ff3570df3/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/f9b21128044757d2102fdf37c20c2136a84f28b810de4c9bc19e491451815cf1e0292ed4e0b884351adee8541116ad0637fbfe3ebbed4bc7ffcf63085f265df3cf7dfa73cb1240e7f69a76c083613e75b0023ebef138b33b7d618e9604b578f4acdcbda75126d45797fb03206c984e09ef7bc34e2a207010f010ae0ff3570df3/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/ec/e6/ece6c59483bc4b4db91c1e5b4320b9de/ece6c59483bc4b4db91c1e5b4320b9de.jpg" group-title="HOLLYWOOD MOVIES",PETER PAN & WENDY (2023)
-https://evif.onthecloudcdn.com/_v10/8c8383e743d086f8f4252f49d9ca29919e01a95d9daf5c070c782881c8301e610030a76972733c349469f9534d99d0ce67417aefe351d84f96f54eb2cd3dbbb0d8c307fd5f7e20bb626ff65ec5a9fc8de0f05ee3542c73a1a7a2d06223a4da64a27f8425616c64f3db32d6310966f59727559f684651d92804068f96c5e0b189/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/8c8383e743d086f8f4252f49d9ca29919e01a95d9daf5c070c782881c8301e610030a76972733c349469f9534d99d0ce67417aefe351d84f96f54eb2cd3dbbb0d8c307fd5f7e20bb626ff65ec5a9fc8de0f05ee3542c73a1a7a2d06223a4da64a27f8425616c64f3db32d6310966f59727559f684651d92804068f96c5e0b189/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/98/d1/98d1812d801dc758bd25aef7b9145ce5/98d1812d801dc758bd25aef7b9145ce5.jpg" group-title="HOLLYWOOD MOVIES",SCREAM VI (2023)
-https://evif.onthecloudcdn.com/_v10/c6a360c68558234910f56085e3ff53687b654aca9e66b1af47a2b42a074e16273ceab5816b8522e941f0c79ced252af7e4b9ae63f1becc41487ab0cba7714915c3f205b20ce502ad65715245489be0066274d13c286c64c0b7288633540f6dd739052642f2d2f330d499f8504a2749ba34a5ea1f241f19ee86b37a2f11961513/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/c6a360c68558234910f56085e3ff53687b654aca9e66b1af47a2b42a074e16273ceab5816b8522e941f0c79ced252af7e4b9ae63f1becc41487ab0cba7714915c3f205b20ce502ad65715245489be0066274d13c286c64c0b7288633540f6dd739052642f2d2f330d499f8504a2749ba34a5ea1f241f19ee86b37a2f11961513/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/c1/77/c1778e6779f23e608c925c70b3e54ae3/c1778e6779f23e608c925c70b3e54ae3.jpg" group-title="HOLLYWOOD MOVIES",GHOSTED (2023)
-https://evif.onthecloudcdn.com/_v10/18b39878fc4182d8647b047faa6a4231152b4cc5e5389095314a6dbdb23b261b6e0ca6a2cdcdc731a8b75da69be14f7987ecfb874d58073fbc127ed7ab56264bce80b5367d2743662c2b9f8b8f9b53385b1ce30aaaa46c0ea96127568791a1e35d964ff0ef0a6fc4efea17ed518e1f7ee85b3df850bf87bf78897fad2d1e6147/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/18b39878fc4182d8647b047faa6a4231152b4cc5e5389095314a6dbdb23b261b6e0ca6a2cdcdc731a8b75da69be14f7987ecfb874d58073fbc127ed7ab56264bce80b5367d2743662c2b9f8b8f9b53385b1ce30aaaa46c0ea96127568791a1e35d964ff0ef0a6fc4efea17ed518e1f7ee85b3df850bf87bf78897fad2d1e6147/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/15/72/157230aae215c32f802b4c904d14e4eb/157230aae215c32f802b4c904d14e4eb.jpg" group-title="HOLLYWOOD MOVIES",ANT-MAN AND THE WASP: QUANTUMANIA (2023)
-https://evif.onthecloudcdn.com/_v10/3d0f8370761d0b460d85960eb3e75f90337d97ac9ab4ce02f9432370731d4bc35485f1c1bd3a8407cb3e255643457023659494b67c51248e3afa9ba5b30d2527533143e85a411cfa92976343d1b4bc289d287724628632c147ca771f119ae0007d183679683584a8dfe772b5928c1e0949afe6b48e6de746af10be0cdd4c8c72/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/3d0f8370761d0b460d85960eb3e75f90337d97ac9ab4ce02f9432370731d4bc35485f1c1bd3a8407cb3e255643457023659494b67c51248e3afa9ba5b30d2527533143e85a411cfa92976343d1b4bc289d287724628632c147ca771f119ae0007d183679683584a8dfe772b5928c1e0949afe6b48e6de746af10be0cdd4c8c72/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/fe/7f/fe7f7945e50cd01506372bc4c2842f2f/fe7f7945e50cd01506372bc4c2842f2f.jpg" group-title="HOLLYWOOD MOVIES",THE LAST KINGDOM: SEVEN KINGS MUST DIE (2023)
-https://evif.onthecloudcdn.com/_v10/2f41d479c076d02c97516a184d6aa40e01ce592120bf84aa476587d29ab8b493bf46c372b0ca7f8b9c547017d98d3631bf498f9eef44e7eb8419b0c288e5a12b681a02cfe3f0dd2a2ee33146e6ba39e3be1c85a49adc0e24484addf086f6570857eb73f76ff463ed80f068f5ee9dc1cc57bbbdbf6256e960649694b0424541df/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/2f41d479c076d02c97516a184d6aa40e01ce592120bf84aa476587d29ab8b493bf46c372b0ca7f8b9c547017d98d3631bf498f9eef44e7eb8419b0c288e5a12b681a02cfe3f0dd2a2ee33146e6ba39e3be1c85a49adc0e24484addf086f6570857eb73f76ff463ed80f068f5ee9dc1cc57bbbdbf6256e960649694b0424541df/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/b7/4e/b74e17781dfdb81be9a9ba94cf6b1e78/b74e17781dfdb81be9a9ba94cf6b1e78.jpg" group-title="HOLLYWOOD MOVIES",EVIL DEAD RISE (2023)
-https://evif.onthecloudcdn.com/_v10/988f6ea135499502f1b8b103e6d575d4f91834b699534ca86c3cd3c8a98e4fff93cc071ea643428264d6a2b8b5a45e432ec87dcb1f6fbcd6e343c316e5d0bf969bf83dbe91169f54105158b612d2e133919fcc631f81e9451823aea7a8a3e8522fbc9ae4d92b6b51df1bfcf7226a08b972c99459022154bd8c42098bc309414b/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/988f6ea135499502f1b8b103e6d575d4f91834b699534ca86c3cd3c8a98e4fff93cc071ea643428264d6a2b8b5a45e432ec87dcb1f6fbcd6e343c316e5d0bf969bf83dbe91169f54105158b612d2e133919fcc631f81e9451823aea7a8a3e8522fbc9ae4d92b6b51df1bfcf7226a08b972c99459022154bd8c42098bc309414b/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/b5/48/b548ce1f682f9f92e1211b2889d995bc/b548ce1f682f9f92e1211b2889d995bc.jpg" group-title="HOLLYWOOD MOVIES",GUY RITCHIE'S THE COVENANT (2023)
-https://evif.onthecloudcdn.com/_v10/7fb70a7239b684b6bd463e480690ccaa26f9aba5309002cb1b41762af85587d6687ad6eeac21facd64219873a9c04949ce722ef5470004c447b1ab3505bea55b30be95ace9da446fc29d73010283d1c8ee2492469b146d63ba86b62822aeb7200b658275a1dcc32026f53d926cacd34abc64ce36eef15a02a1d789bf1c197c2e/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/7fb70a7239b684b6bd463e480690ccaa26f9aba5309002cb1b41762af85587d6687ad6eeac21facd64219873a9c04949ce722ef5470004c447b1ab3505bea55b30be95ace9da446fc29d73010283d1c8ee2492469b146d63ba86b62822aeb7200b658275a1dcc32026f53d926cacd34abc64ce36eef15a02a1d789bf1c197c2e/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/9d/0f/9d0fe6f16f205e483df14817753c1b0d/9d0fe6f16f205e483df14817753c1b0d.jpg" group-title="HOLLYWOOD MOVIES",AVATAR (2009)
-https://evif.onthecloudcdn.com/_v10/d6291898b609b71e68f4633273d2754f12b90e18f1c4e224519264b46624d78fcc84da4046fe720fa9922037b2fb615649fec4cd2a79a75295740ad5a89e5b871d7204c5a07583f56913af6439351b86c3bdee6516be59a35ac7534376f3f39fc47d71405e8d156a479e4608b88937e93a39b112331d107ad21e2ab9b3818949/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/d6291898b609b71e68f4633273d2754f12b90e18f1c4e224519264b46624d78fcc84da4046fe720fa9922037b2fb615649fec4cd2a79a75295740ad5a89e5b871d7204c5a07583f56913af6439351b86c3bdee6516be59a35ac7534376f3f39fc47d71405e8d156a479e4608b88937e93a39b112331d107ad21e2ab9b3818949/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/1e/c6/1ec694a9d587d509ec7a9be815aacfac/1ec694a9d587d509ec7a9be815aacfac.jpg" group-title="HOLLYWOOD MOVIES",AVATAR: THE WAY OF WATER (2023)
-https://evif.onthecloudcdn.com/_v10/8db9371661b8973f384ed23cda52c2c6376cb9e89640efb9e5fbe13eb02382007e96ba8006c317b2f0e8db77eb08be5375e585a11b650a560d89cbcb0311ae5176f24b3e01bb631e074030ece69bc4cee26588ccc76896c87198aaef269e75c79729c5e7ec1edc8361508b7b32055a30f464a57da472a426eb1bb46e55505b4a/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/8db9371661b8973f384ed23cda52c2c6376cb9e89640efb9e5fbe13eb02382007e96ba8006c317b2f0e8db77eb08be5375e585a11b650a560d89cbcb0311ae5176f24b3e01bb631e074030ece69bc4cee26588ccc76896c87198aaef269e75c79729c5e7ec1edc8361508b7b32055a30f464a57da472a426eb1bb46e55505b4a/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/f7/69/f769d69be489f65e8cb1748693fce35e/f769d69be489f65e8cb1748693fce35e.jpg" group-title="HOLLYWOOD MOVIES",THE SUPER MARIO BROS. MOVIE (2023)
-https://evif.onthecloudcdn.com/_v10/974cd38a2b393428d52598ed1d723fcc769aa2b9922a48b26cc05f9b16ddde1fed5fdc2c524b6ee8097a87e6db49bc524459a61b9cc8d80b6576d38a62f65ecfd42d5f367323d813c3c3173ba920cddb1355eca917180e48fdec2a7f4f925ef883fa92fed1216eef7828c99179d1c813c3cdf7c49d991f691547948ddcd25c4d/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/974cd38a2b393428d52598ed1d723fcc769aa2b9922a48b26cc05f9b16ddde1fed5fdc2c524b6ee8097a87e6db49bc524459a61b9cc8d80b6576d38a62f65ecfd42d5f367323d813c3c3173ba920cddb1355eca917180e48fdec2a7f4f925ef883fa92fed1216eef7828c99179d1c813c3cdf7c49d991f691547948ddcd25c4d/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/a8/71/a871f05c108261518713cd38800b37e2/a871f05c108261518713cd38800b37e2.jpg" group-title="HOLLYWOOD MOVIES",RENFIELD (2023)
-https://evif.onthecloudcdn.com/_v10/abe8730c018ce0ad5074c75cd7174bf7cf3534a436d473a80df2d864ba0c1c969810779f3c9ef555df9641c151ffd8be6ff049381d138db5cd96171881049cba2c251d6a73556d34cef3b94e0f87bab4fb824e24aedae7019df4c1cdc16503e0d3f17f4a5eae05f48adb62bbebe43e78e9c3f8eeac599dc2f191a498c1522358/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/abe8730c018ce0ad5074c75cd7174bf7cf3534a436d473a80df2d864ba0c1c969810779f3c9ef555df9641c151ffd8be6ff049381d138db5cd96171881049cba2c251d6a73556d34cef3b94e0f87bab4fb824e24aedae7019df4c1cdc16503e0d3f17f4a5eae05f48adb62bbebe43e78e9c3f8eeac599dc2f191a498c1522358/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/c3/05/c30590d067779659a6252d4408319160/c30590d067779659a6252d4408319160.jpg" group-title="HOLLYWOOD MOVIES",PAINT (2023)
-https://evif.onthecloudcdn.com/_v10/cd859abee162c563b5ad7fef3b0407e589cef7d85dae567f4588a9c977c8a12d04f56f207ced00ceb1000d7900eaebb89f24bd968cd0b05bb4caf20a78a6920ab20ef4d75f22b900deebbe10a60f4a88a7b286fec3951525d742cbefea26191e63877821e93b7f302142fe356c6356b02c6356224b03503764c8650130e88985/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/cd859abee162c563b5ad7fef3b0407e589cef7d85dae567f4588a9c977c8a12d04f56f207ced00ceb1000d7900eaebb89f24bd968cd0b05bb4caf20a78a6920ab20ef4d75f22b900deebbe10a60f4a88a7b286fec3951525d742cbefea26191e63877821e93b7f302142fe356c6356b02c6356224b03503764c8650130e88985/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/a2/37/a237f2753a59567820db81cffbcc6f20/a237f2753a59567820db81cffbcc6f20.jpg" group-title="HOLLYWOOD MOVIES",CRATER (2023)
-https://evif.onthecloudcdn.com/_v10/c5982fd8a10335eead521a1288e1bdcc8c00422f42bc0738a1caeb24f1069a7e2083b911c86a30f228e644f615c64311642331a94b0630f03699d76a6d2ee3f22f28c30fef8ca257db86a547b7c08c2a0f70a1acf02c8ca620ffdf4e1a41d3757304bfe3a438c0977fa951d0b1afc4c72fd3ed477785853326ac869ca20bced3/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/c5982fd8a10335eead521a1288e1bdcc8c00422f42bc0738a1caeb24f1069a7e2083b911c86a30f228e644f615c64311642331a94b0630f03699d76a6d2ee3f22f28c30fef8ca257db86a547b7c08c2a0f70a1acf02c8ca620ffdf4e1a41d3757304bfe3a438c0977fa951d0b1afc4c72fd3ed477785853326ac869ca20bced3/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/e1/1e/e11e44212e42e941cbbc55ecfe72e1d1/e11e44212e42e941cbbc55ecfe72e1d1.jpg" group-title="HOLLYWOOD MOVIES",DEATH'S ROULETTE (2023)
-https://evif.onthecloudcdn.com/_v10/b6281a888f74335b25bea08234bd85294c2a2c2ddcaed49024a076fcb423b0ffde9da8348a5aac7eb3fe76fb563fee5d1e6ac6ba738f6a9e8f77693e5bfe1add3173400a02dcbe1b7360d03145ec026ff49ef60b668023cade0436ac4e8f6f97ae5fafd662cb317608e06e9c0dbe5827e53ea16cfc711528ed117b07f0d199c8/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/b6281a888f74335b25bea08234bd85294c2a2c2ddcaed49024a076fcb423b0ffde9da8348a5aac7eb3fe76fb563fee5d1e6ac6ba738f6a9e8f77693e5bfe1add3173400a02dcbe1b7360d03145ec026ff49ef60b668023cade0436ac4e8f6f97ae5fafd662cb317608e06e9c0dbe5827e53ea16cfc711528ed117b07f0d199c8/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/b6/f8/b6f8a4962526819108d3f30af7a2b280/b6f8a4962526819108d3f30af7a2b280.jpg" group-title="HOLLYWOOD MOVIES",COCAINE BEAR (2023)
 https://evif.onthecloudcdn.com/_v10/b333c54f30b8372d62ec2bf0c9f15c7a5122379c62b0f310801cf6a663185470506a90990983987df1ee98c4aba65eeea946894ee0ded4ae3f783da43c6f2e3ac8991f36845ce4ff7703311d2dfc2650fce99b05dc87211d205a1b498abaf4f109920d64195e2d24a9aa95d98b356d13c2913c024e99e057f63746b636775c84/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/13/0c/130c8eb6711727a904d5ff3e02495623/130c8eb6711727a904d5ff3e02495623.jpg" group-title="HOLLYWOOD MOVIES",KNOCK AT THE CABIN (2023)
-https://evif.onthecloudcdn.com/_v10/af9689750b6808d65c90648ba76a64680394efbd21f59d2fccc6fbd7a69d94167f8ae69d09637f599e72a2b2b41c6db8d2d43e59f90518e89f32dd5b137319569f179c2b1bc445df7a8c132827d8915164c11542a6ebc734fc32a8661a06cf94ca25fb2e5b30b0ab9e0ed7c74a3f28b2ac69eafc9d73b8a53ecd69130933fb46/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/af9689750b6808d65c90648ba76a64680394efbd21f59d2fccc6fbd7a69d94167f8ae69d09637f599e72a2b2b41c6db8d2d43e59f90518e89f32dd5b137319569f179c2b1bc445df7a8c132827d8915164c11542a6ebc734fc32a8661a06cf94ca25fb2e5b30b0ab9e0ed7c74a3f28b2ac69eafc9d73b8a53ecd69130933fb46/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/b7/58/b7581e7eef3ae06611136bf9625b4e5a/b7581e7eef3ae06611136bf9625b4e5a.jpg" group-title="HOLLYWOOD MOVIES",ONE RANGER (2023)
-https://evif.onthecloudcdn.com/_v10/1e48511b465bc794fb2559cc767b813aeac4897a3344364eb5b9ffa50e8dc132bb7e4553abf0f6fd4ddc35d59ce91747c126cb5987e4655e0540f2f4ab45fa27568aa6d65ccdd8901e50e704740c40845624755ee96f607c74868a90f12a6d1d6ec0edb8a61e53a69e39bb0102490c929b56a257cd48f326001c8c8554cc1303/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/1e48511b465bc794fb2559cc767b813aeac4897a3344364eb5b9ffa50e8dc132bb7e4553abf0f6fd4ddc35d59ce91747c126cb5987e4655e0540f2f4ab45fa27568aa6d65ccdd8901e50e704740c40845624755ee96f607c74868a90f12a6d1d6ec0edb8a61e53a69e39bb0102490c929b56a257cd48f326001c8c8554cc1303/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/60/2a/602ab2c922bc07689c128d860ac53edf/602ab2c922bc07689c128d860ac53edf.jpg" group-title="HOLLYWOOD MOVIES",THE WANDERING EARTH II (2022)
-https://evif.onthecloudcdn.com/_v10/380019a0944f3606d037258fe004276dfbf64c6e748004b143572398b9454724d48330a8c4345bdaf7f3c5240d99d2c2910c43bdfe30cb755ea4a0ebd8af7283aa7ba110eb27113dfd0f71e8d97bbf2a31d8caae1607af31a6e82cdc8b6f20a2b65bb9af6bd56f7515a072d824186ca6346a499b0065b85b7c9bcfc00e154e57/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/380019a0944f3606d037258fe004276dfbf64c6e748004b143572398b9454724d48330a8c4345bdaf7f3c5240d99d2c2910c43bdfe30cb755ea4a0ebd8af7283aa7ba110eb27113dfd0f71e8d97bbf2a31d8caae1607af31a6e82cdc8b6f20a2b65bb9af6bd56f7515a072d824186ca6346a499b0065b85b7c9bcfc00e154e57/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/93/bc/93bc4c150514127dba2a66eaf7d5dee9/93bc4c150514127dba2a66eaf7d5dee9.jpg" group-title="HOLLYWOOD MOVIES",MAFIA MAMMA (2023)
-https://evif.onthecloudcdn.com/_v10/e9f1c5487fd79b857207c9c21034973b2f5c8ba1731c207ce24c910d57f7031464bb2be2f046ae0ce84d5ee6fda07a82e47a8816ce0d1fda8eb8e253c59889df358634a67f3b353f1c94e1dff6ce6465b5cb3644cbeb60862584f0137f87001771beec7b182e3b6292238fe79c889b7de05202754a149f8fdac7c17c4f52edef/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/e9f1c5487fd79b857207c9c21034973b2f5c8ba1731c207ce24c910d57f7031464bb2be2f046ae0ce84d5ee6fda07a82e47a8816ce0d1fda8eb8e253c59889df358634a67f3b353f1c94e1dff6ce6465b5cb3644cbeb60862584f0137f87001771beec7b182e3b6292238fe79c889b7de05202754a149f8fdac7c17c4f52edef/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/fc/b2/fcb2dbb21a31a7836a95f762256faf78/fcb2dbb21a31a7836a95f762256faf78.jpg" group-title="HOLLYWOOD MOVIES",DARKER SHADES OF SUMMER (2023)
-https://evif.onthecloudcdn.com/_v10/9ce13d6d8b8b26d1882c39368b76bf97bff1b3f2ea56819336e5e44524dc93ef55825aef132da9e350560a61973f4215f2d2ee35bf9e772f2ca23ee27a2fc6845b6811ec5d9948565ec71fbbb079c157f9aab6cce2a2a143c9cbdf9e5cd1a52e73f15749aa847d03b76fd607473436b9089b6403c0baf5157b946fba3f7b0f2d/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/9ce13d6d8b8b26d1882c39368b76bf97bff1b3f2ea56819336e5e44524dc93ef55825aef132da9e350560a61973f4215f2d2ee35bf9e772f2ca23ee27a2fc6845b6811ec5d9948565ec71fbbb079c157f9aab6cce2a2a143c9cbdf9e5cd1a52e73f15749aa847d03b76fd607473436b9089b6403c0baf5157b946fba3f7b0f2d/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/eb/93/eb9364f188acbf527f79cd4c3d6def02/eb9364f188acbf527f79cd4c3d6def02.jpg" group-title="HOLLYWOOD MOVIES",I’LL BE WATCHING (2023)
-https://evif.onthecloudcdn.com/_v10/3662778f6bdf7783cd751c99ff29fcbc8db1f8c2aef98dfe18a80b42d7fb35204c1186e207c1ab82b430d59950349a4acad344c8dd7cd9b69899859ab43c958bd2459faa9fd49eb0c140fcfe258ef0922082f7e083d41776ada97b4e5433292473d49f3e72495b1ed042a93d13ab45cf165d98aa9748454849016a613afce990/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/3662778f6bdf7783cd751c99ff29fcbc8db1f8c2aef98dfe18a80b42d7fb35204c1186e207c1ab82b430d59950349a4acad344c8dd7cd9b69899859ab43c958bd2459faa9fd49eb0c140fcfe258ef0922082f7e083d41776ada97b4e5433292473d49f3e72495b1ed042a93d13ab45cf165d98aa9748454849016a613afce990/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/eb/93/eb9364f188acbf527f79cd4c3d6def02/eb9364f188acbf527f79cd4c3d6def02.jpg" group-title="HOLLYWOOD MOVIES",THE MOTHER (2023)
-https://evif.onthecloudcdn.com/_v10/3662778f6bdf7783cd751c99ff29fcbc8db1f8c2aef98dfe18a80b42d7fb35204c1186e207c1ab82b430d59950349a4acad344c8dd7cd9b69899859ab43c958bd2459faa9fd49eb0c140fcfe258ef0922082f7e083d41776ada97b4e5433292473d49f3e72495b1ed042a93d13ab45cf165d98aa9748454849016a613afce990/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/3662778f6bdf7783cd751c99ff29fcbc8db1f8c2aef98dfe18a80b42d7fb35204c1186e207c1ab82b430d59950349a4acad344c8dd7cd9b69899859ab43c958bd2459faa9fd49eb0c140fcfe258ef0922082f7e083d41776ada97b4e5433292473d49f3e72495b1ed042a93d13ab45cf165d98aa9748454849016a613afce990/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/8f/b5/8fb5093a5b35f9473bb0dc9698a683c4/8fb5093a5b35f9473bb0dc9698a683c4.jpg" group-title="HOLLYWOOD MOVIES",INVITATION TO A MURDER (2023)
-https://evif.onthecloudcdn.com/_v10/cff926ba083d7513d58cd3860aa757eaedd1a1b49ee6c07fbc33efd61f6f7a2b298a7d9e5b47131e94dc0907def975ceea5f4dd7f644d6df4615502841242c3ccffde7715fa817930dc2d3fba23bd213efd035de18bf6bc7c8bf00932cf32572caa368327576b4ebb82f792a6172ad1e69f17b3dee0bcf3cfd3b64a46e49a4dd/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/cff926ba083d7513d58cd3860aa757eaedd1a1b49ee6c07fbc33efd61f6f7a2b298a7d9e5b47131e94dc0907def975ceea5f4dd7f644d6df4615502841242c3ccffde7715fa817930dc2d3fba23bd213efd035de18bf6bc7c8bf00932cf32572caa368327576b4ebb82f792a6172ad1e69f17b3dee0bcf3cfd3b64a46e49a4dd/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/34/65/34659e1dc3e53cf94eaf2f4be88bf635/34659e1dc3e53cf94eaf2f4be88bf635.jpg" group-title="HOLLYWOOD MOVIES",DEAD SHOT (2023)
-https://evif.onthecloudcdn.com/_v10/7122ce21e15d5cd430c49e159cf6eacbbfd71b798e5fafc5ab7a2f6ab5f6fb767197fdc3130ab13130324c6e0699dfedd57d757e72862107491f48ffce84299a1cb2c91eea97e1face16a3fec20d0fba3a1d2735b9454a6e8b7b60aa462ca8592ac7c30f539b8cdd4526133d154eace078ebd52d5524a756e355de15788c1f5b/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/7122ce21e15d5cd430c49e159cf6eacbbfd71b798e5fafc5ab7a2f6ab5f6fb767197fdc3130ab13130324c6e0699dfedd57d757e72862107491f48ffce84299a1cb2c91eea97e1face16a3fec20d0fba3a1d2735b9454a6e8b7b60aa462ca8592ac7c30f539b8cdd4526133d154eace078ebd52d5524a756e355de15788c1f5b/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/90/d2/90d219f765aaf408616c7066782f7895/90d219f765aaf408616c7066782f7895.jpg" group-title="HOLLYWOOD MOVIES",AIR (2023)
-https://evif.onthecloudcdn.com/_v10/21edef229f8d9d510059857656fcca6fe3e32c46aae024ed36d9746754a80f84485da39702b727fa111e7bad8c900cb57def4a2f72693a7467c09bf74f969c0815e9ae1d77ad7cf864427d6831e82a929098a4d516a4df384a1cb0f7bc48e996ac73811bd820bdedd2183db3dfa8c88570ccb18771102d47b9a9e59ad8d1a99a/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/21edef229f8d9d510059857656fcca6fe3e32c46aae024ed36d9746754a80f84485da39702b727fa111e7bad8c900cb57def4a2f72693a7467c09bf74f969c0815e9ae1d77ad7cf864427d6831e82a929098a4d516a4df384a1cb0f7bc48e996ac73811bd820bdedd2183db3dfa8c88570ccb18771102d47b9a9e59ad8d1a99a/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/14/16/1416fd1577dc5bcea41002bb07d73bd9/1416fd1577dc5bcea41002bb07d73bd9.jpg" group-title="HOLLYWOOD MOVIES",STILL: A MICHAEL J. FOX MOVIE (2023)
-https://evif.onthecloudcdn.com/_v10/4dc292f65e9517ee1467dfcc8e08f1c023cf115c8b2898a7a7ab0f5a314b5055d7f32c2f15662778912a5986297d6122c99e85d5a34257f8ed8a148ccb397077d490c0ef87e9db731d205ad85771d61df716320f011092be577f32f10692a58371be436c7beb696d2a6c5882cac7b2b0f142ffe6cb70a56a1efd9667096c6241/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/4dc292f65e9517ee1467dfcc8e08f1c023cf115c8b2898a7a7ab0f5a314b5055d7f32c2f15662778912a5986297d6122c99e85d5a34257f8ed8a148ccb397077d490c0ef87e9db731d205ad85771d61df716320f011092be577f32f10692a58371be436c7beb696d2a6c5882cac7b2b0f142ffe6cb70a56a1efd9667096c6241/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/d2/01/d20163bef72b7de0490150c15ae0b921/d20163bef72b7de0490150c15ae0b921.jpg" group-title="HOLLYWOOD MOVIES",MARLOWE  (2022)
-https://evif.onthecloudcdn.com/_v10/69a8d6d9fb408d425d1d604d69a63a60bd16dbd8793d684363a4a8778340aee86773b042dcdc15ece2ec3f3ca01ad1a25ea8e0b50627c2110c98ed30cb4f93c51ae9e5325f84ebaa6c955bc12a63b3d317928e042795a11bdb5b4555319d17374f666938525defc6dc9a1317ec4d55c1cf34d94aa292354f8ce2df60036f5671/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/69a8d6d9fb408d425d1d604d69a63a60bd16dbd8793d684363a4a8778340aee86773b042dcdc15ece2ec3f3ca01ad1a25ea8e0b50627c2110c98ed30cb4f93c51ae9e5325f84ebaa6c955bc12a63b3d317928e042795a11bdb5b4555319d17374f666938525defc6dc9a1317ec4d55c1cf34d94aa292354f8ce2df60036f5671/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/2e/21/2e217b2f6bdbeacb59c4d2b3ac2731a9/2e217b2f6bdbeacb59c4d2b3ac2731a9.jpg" group-title="HOLLYWOOD MOVIES",THE BEST MAN (2023)
-https://evif.onthecloudcdn.com/_v10/4fd88beed8ba30a4ba50b63efdb9c44d21516f400600370f142c810655b872737ab159043d7ec5e5e2a46e7a68d54baaf7d95adafe2db19f4a48554f57a0577abf887cec0a12af18cb0fbe99a099097cdb214e3af3b5531fea1779106ecb5dea2fbf3fcfd7ee4be04d2c2f53d82db014917855b0be3a8dd91e2079027fc66135/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/4fd88beed8ba30a4ba50b63efdb9c44d21516f400600370f142c810655b872737ab159043d7ec5e5e2a46e7a68d54baaf7d95adafe2db19f4a48554f57a0577abf887cec0a12af18cb0fbe99a099097cdb214e3af3b5531fea1779106ecb5dea2fbf3fcfd7ee4be04d2c2f53d82db014917855b0be3a8dd91e2079027fc66135/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/c7/fe/c7fecc42b0652746933d32981db692d0/c7fecc42b0652746933d32981db692d0.jpg	" group-title="HOLLYWOOD MOVIES",AKA (2023)
-https://evif.onthecloudcdn.com/_v10/c8f7bd612c9981f61071cb7f6cd5ecca2a7c4d0b9960f860748680a7ec4345ab7641853e91ad4a6916d3a92bc9caa8d46fd2ad29ef98369bca661d370af18b99413c893bf26b4ec0f0d12f2720cb6c66333736f3528190db1fe741da9b82d903dfd9cb12d121b5e872624bfc3ad0af55fc0a1f8aee749a3405a22dad27fa02fb/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/c8f7bd612c9981f61071cb7f6cd5ecca2a7c4d0b9960f860748680a7ec4345ab7641853e91ad4a6916d3a92bc9caa8d46fd2ad29ef98369bca661d370af18b99413c893bf26b4ec0f0d12f2720cb6c66333736f3528190db1fe741da9b82d903dfd9cb12d121b5e872624bfc3ad0af55fc0a1f8aee749a3405a22dad27fa02fb/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/26/b5/26b5df3a2777ff48f73d243b3aff7fd1/26b5df3a2777ff48f73d243b3aff7fd1.jpg" group-title="HOLLYWOOD MOVIES",TINNITUS (2022)
 https://evif.onthecloudcdn.com/_v10/9eb6cd864e29f824f065a00cb16e1122a6d336223fa70d13e573bdb65e08ea6f33efdd176988a48aea1f2097b4a9653c2babbd8a268d77aeb521b524196ca12d734348192c391be42ab32b6a19d3c7b721fb72db33a33196bcbf0b3c333dfcc158bebdf39b663a973601e35cbcc0c7043c748892af9e3b5d68e7fe902031a997/playlist.m3u8
@@ -108,31 +328,31 @@ https://evif.onthecloudcdn.com/_v10/5cd2c0827a9ebae042428f56cba1573a69f32377b12a
 https://evif.onthecloudcdn.com/_v10/b8c4bbfed9cdbba44dbb3258381d6674ae4238eceb3e83c22633d78132b4e30a378758ffde3f651f6104ea235f94c152686533e8e5c7543594bbfe9749267231c6eab395f347deb0595cf237f9ab6a0d8aebd73fe64106ccbcd1e55241ce59f534de31ff7bef0a03ddc86913d719788120d0e935efd06a755657383de9e996fb/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/30/e1/30e1b2312ab2ea6fc0998366f1407bd5/30e1b2312ab2ea6fc0998366f1407bd5.jpg" group-title="HOLLYWOOD MOVIES",THE MATCHMAKER(2023)
-https://evif.onthecloudcdn.com/_v10/01a01f80798fa588404b24d3e4f91d2e7d4f84659f0959b62eea96222c8d0b8cabc256840504cab268b61867d13ef0668127ab89c2f45b94d524dc2233ecb9e2d1a81c80222647d905fd8ccc166ea91f1b6eeca9e4f253d3c0d182d96a553c1da51fc480ec8fb50efcbb0358c692cbee5ef675b65c4da3bf46de3a17017f7594/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/01a01f80798fa588404b24d3e4f91d2e7d4f84659f0959b62eea96222c8d0b8cabc256840504cab268b61867d13ef0668127ab89c2f45b94d524dc2233ecb9e2d1a81c80222647d905fd8ccc166ea91f1b6eeca9e4f253d3c0d182d96a553c1da51fc480ec8fb50efcbb0358c692cbee5ef675b65c4da3bf46de3a17017f7594/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/41/1c/411c24d9255cd0ae9042b3137cf18db4/411c24d9255cd0ae9042b3137cf18db4.jpg" group-title="HOLLYWOOD MOVIES",HIDDEN MURDER ISLAND(2023)
-https://evif.onthecloudcdn.com/_v10/f764a3f0f6f5752ca8a2d0948dd4bb28c4d70ca98a988117b16590b6b6e040198bb36a5198a39571ac9ac6edd504b5510b9e92a0b9c76a6a014fbab4b9d1c976b364e7062ec08f9b7b1875f5f23c6e0759b7142a88d411c96d76ad29b7f3fdbe37250947a09b8a100bdc382d399707eaf72b279e643943906c9bf8e048735167/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/f764a3f0f6f5752ca8a2d0948dd4bb28c4d70ca98a988117b16590b6b6e040198bb36a5198a39571ac9ac6edd504b5510b9e92a0b9c76a6a014fbab4b9d1c976b364e7062ec08f9b7b1875f5f23c6e0759b7142a88d411c96d76ad29b7f3fdbe37250947a09b8a100bdc382d399707eaf72b279e643943906c9bf8e048735167/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/5f/88/5f88a0877d225475e846a1971ec37c5a/5f88a0877d225475e846a1971ec37c5a.jpg" group-title="HOLLYWOOD MOVIES",THE ARTIFICE GIRL(2022)
-https://evif.onthecloudcdn.com/_v10/162d13e68069eb3f89031037af6550e672b81329884fb40a6375f906a355e3f044f5b88b40bbce9975b2a7f19dead937776622ba6da6e0e722a68d2487c90160bbb564f8e71c973ccb6136eb4cd92c0e1e75d073ecdf14cad7f4bb6b153d0d008cd981ff26c35128636d389194f1fbb636c9d9db1e4da6c5cf798e48eb233b6f/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/162d13e68069eb3f89031037af6550e672b81329884fb40a6375f906a355e3f044f5b88b40bbce9975b2a7f19dead937776622ba6da6e0e722a68d2487c90160bbb564f8e71c973ccb6136eb4cd92c0e1e75d073ecdf14cad7f4bb6b153d0d008cd981ff26c35128636d389194f1fbb636c9d9db1e4da6c5cf798e48eb233b6f/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/e3/e6/e3e68ba3e4fe313fb23af05d5a06ed87/e3e68ba3e4fe313fb23af05d5a06ed87.jpg" group-title="HOLLYWOOD MOVIES",GRAND KNIGHTHAWK: INFILTRATING THE KKK(2023)
-https://evif.onthecloudcdn.com/_v10/62653fd40a8fd7b886370569317051347dc0487586f80ce2a921f12dc54b99f04974e707d80a51187de8b9bb55a4432678f3d286045bf5464811c2cfede179b53207924ab6570c69d674729f65b85eaca76579f377817afef31ee46a975937db6ef318c5cc1adcf030e3eb78bfa457b78d687177322585682f83628009b8dd4e/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/62653fd40a8fd7b886370569317051347dc0487586f80ce2a921f12dc54b99f04974e707d80a51187de8b9bb55a4432678f3d286045bf5464811c2cfede179b53207924ab6570c69d674729f65b85eaca76579f377817afef31ee46a975937db6ef318c5cc1adcf030e3eb78bfa457b78d687177322585682f83628009b8dd4e/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/3a/46/3a46858a037855565488f2cdd6970aed/3a46858a037855565488f2cdd6970aed.jpg" group-title="HOLLYWOOD MOVIES",UNDEADUCATED (2021)
-https://evif.onthecloudcdn.com/_v10/56440f7d9f4e0ff8bce363f08dea3849214a18d003f8ebafa8b52e9392e30a9b69d32e4828acc2d63c612e2fcfce7b047c8187f459171dfbc5c879d66d321656deaf74837e3bf6f718b0cd18d59cd151e684866a97c49ad0b2d211aa722963ce2b08e5e019f794b995eb9dd941734da61d6213911e48d9d3c4b2425da8c21b20/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/56440f7d9f4e0ff8bce363f08dea3849214a18d003f8ebafa8b52e9392e30a9b69d32e4828acc2d63c612e2fcfce7b047c8187f459171dfbc5c879d66d321656deaf74837e3bf6f718b0cd18d59cd151e684866a97c49ad0b2d211aa722963ce2b08e5e019f794b995eb9dd941734da61d6213911e48d9d3c4b2425da8c21b20/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/3f/5e/3f5ee1ccd5181450931d162c5b8e188f/3f5ee1ccd5181450931d162c5b8e188f.jpg" group-title="HOLLYWOOD MOVIES",SPIDER-MAN (2002)
-https://evif.onthecloudcdn.com/_v10/603fefb73858d7cae6b267fb433068ed56b6db655f7996750e8587e829eac2cf8e08c78fb054636b20f5c2b575b2c889d204b8a17b32e7ec6a4cdf60a362d20cf125385acdb68a9dd695db0a62b2e2c2546ae8d57183e24e6f62240d6cf4a1e7417bbfbc0469a5d8c6e068c6ce95c54c1e975d94a4005141314287736bd3abd8/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/603fefb73858d7cae6b267fb433068ed56b6db655f7996750e8587e829eac2cf8e08c78fb054636b20f5c2b575b2c889d204b8a17b32e7ec6a4cdf60a362d20cf125385acdb68a9dd695db0a62b2e2c2546ae8d57183e24e6f62240d6cf4a1e7417bbfbc0469a5d8c6e068c6ce95c54c1e975d94a4005141314287736bd3abd8/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/c1/2e/c12e55e258ecfed21ebfaa023c81ed38/c12e55e258ecfed21ebfaa023c81ed38.jpg" group-title="HOLLYWOOD MOVIES",SPIDER-MAN 2 (2004)
-https://evif.onthecloudcdn.com/_v10/838779b576e7df102cbe23f4aa63ca2a75146fa8ec7d1a021f00d79c4dba5b28a26dba87c383bbdf0d4a91d5aa63702484310ddd91774d12f7d655a2ce5a68057bccd6dd4d7d06000766db01473aff0569fca430ba13d01e0210c2e72ba9b6bd4a5df10564a15beaab3b55a45790e2680c1990f381663aa7d1b8dccf77438a76/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/838779b576e7df102cbe23f4aa63ca2a75146fa8ec7d1a021f00d79c4dba5b28a26dba87c383bbdf0d4a91d5aa63702484310ddd91774d12f7d655a2ce5a68057bccd6dd4d7d06000766db01473aff0569fca430ba13d01e0210c2e72ba9b6bd4a5df10564a15beaab3b55a45790e2680c1990f381663aa7d1b8dccf77438a76/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/3a/c1/3ac1a3e97e7fc443b65f09691f8f0c8b/3ac1a3e97e7fc443b65f09691f8f0c8b.jpg" group-title="HOLLYWOOD MOVIES",SPIDER-MAN 3 (2007)
-https://evif.onthecloudcdn.com/_v10/a5806e185879512778a71a0b50e697f74f5c89ec9197fe0b365d15d23b4064d942260ae7210ffa63f76a7c42c9163aa8fbe7615435725f777367f941d5f962897ffbada87f1b31c365fb377a4b668e8aacbd40c6fb1ccc27917153ad3d7d5f38b3fc9f9e8ad59908b2173164868671e1915c9a8dca85a6640d712012a4fd82c7/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/a5806e185879512778a71a0b50e697f74f5c89ec9197fe0b365d15d23b4064d942260ae7210ffa63f76a7c42c9163aa8fbe7615435725f777367f941d5f962897ffbada87f1b31c365fb377a4b668e8aacbd40c6fb1ccc27917153ad3d7d5f38b3fc9f9e8ad59908b2173164868671e1915c9a8dca85a6640d712012a4fd82c7/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/c9/e9/c9e99a511e5eb6608adb69e71e5ba20d/c9e99a511e5eb6608adb69e71e5ba20d.jpg" group-title="HOLLYWOOD MOVIES",SPIDER-MAN: HOMECOMING  (2017)
-https://evif.onthecloudcdn.com/_v10/7c18fd3334f5118123500dbbda17ddce4444186348d8d0cc2b90546004dca5c9763dda0dc72b7bcfee3235c50ea4ebf18e100edbf4c9a17cd827a8b27e2bf330e7aba24e79a23215aa12a43e916425d7fc77d10c1d936fb84c977d60b42149f441da3362778eeb6da549f51f8420a21d2b913d861da99b7edaf0da61382d552e/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/7c18fd3334f5118123500dbbda17ddce4444186348d8d0cc2b90546004dca5c9763dda0dc72b7bcfee3235c50ea4ebf18e100edbf4c9a17cd827a8b27e2bf330e7aba24e79a23215aa12a43e916425d7fc77d10c1d936fb84c977d60b42149f441da3362778eeb6da549f51f8420a21d2b913d861da99b7edaf0da61382d552e/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/11/e9/11e99ac5f2e95ae79a388f06bd8c8255/11e99ac5f2e95ae79a388f06bd8c8255.jpg" group-title="HOLLYWOOD MOVIES",THE AMAZING SPIDER-MAN  (2012)
 https://evif.onthecloudcdn.com/_v10/f41a93875c03a3a114de7ac7fff8391c1530ce0b4b9fff8ab394c48be586abebd1153f4caaab2b1363e3311cb2c5b622bd367e6de2e1be8f97eec80da743a8498f121bd85cfe6447c3f40cbb30c9b38c59ae13b23b7b4342a62b89910755b9fc8bb0a568865dbb89c06bfa9798ce802536974e03779b6b531aa1c3b95ef5bbae/playlist.m3u8
@@ -141,295 +361,320 @@ https://evif.onthecloudcdn.com/_v10/f41a93875c03a3a114de7ac7fff8391c1530ce0b4b9f
 https://evif.onthecloudcdn.com/_v10/f7bfe9b783771cf200cbe3585fed8e450436a88260718c82e0a84b8fe163dfc51ad868bd40a8b6d149ba270a5c5c8ac81a5b051379318c8a5bf3314768fd25d2e806fb22e656d5b72c93e51091ebe972190a535827b2b4b5ece618a16071d9a3d3f57882e8001a7b8eaa1c4d18580b6b1835df2d1aa8faf61ec5dffab04f3b98/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/81/6a/816aa6fbf5badbef46170a1d3358c1b6/816aa6fbf5badbef46170a1d3358c1b6.jpg" group-title="HOLLYWOOD MOVIES",SPIDER-MAN: FAR FROM HOME  (2019)
-https://evif.onthecloudcdn.com/_v10/8131a23935d919774b5b74f18bb67a728dbfc849f5a56e9ed004b755c5c77cedb1f9a83c2643e056e6bb908c01a0ee57609c110d006faf26256b27ba2e5d0d6508c461a14fd0cee6cb05cfef24f11bcda3349fbb9b6e57f5813086a663f802a00ee98190f7401038e902c45d693473fe941e57f7965d621fc826cc3aeb61c54a/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/8131a23935d919774b5b74f18bb67a728dbfc849f5a56e9ed004b755c5c77cedb1f9a83c2643e056e6bb908c01a0ee57609c110d006faf26256b27ba2e5d0d6508c461a14fd0cee6cb05cfef24f11bcda3349fbb9b6e57f5813086a663f802a00ee98190f7401038e902c45d693473fe941e57f7965d621fc826cc3aeb61c54a/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/ad/ec/adec043dc06e33a123c7e000866555d6/adec043dc06e33a123c7e000866555d6.jpg" group-title="HOLLYWOOD MOVIES",THE AMAZING SPIDER-MAN 2  (2014)
-https://evif.onthecloudcdn.com/_v10/0ca748ddb75eec6cf6bfdb90dbcd4b276416d14d56f96c32b02b174c6ee176783a1595e2ece082f769b4b40d5a341521493cf5b47f1efcbcd7cdea2012133246eac154028033a21622a453eb13bb8a116717738d0997407e1b5a77db380290a2f9c9cb5865d681ff936377bd376b9261ab08d896a20e369cd4df2a7ce565f390/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/0ca748ddb75eec6cf6bfdb90dbcd4b276416d14d56f96c32b02b174c6ee176783a1595e2ece082f769b4b40d5a341521493cf5b47f1efcbcd7cdea2012133246eac154028033a21622a453eb13bb8a116717738d0997407e1b5a77db380290a2f9c9cb5865d681ff936377bd376b9261ab08d896a20e369cd4df2a7ce565f390/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/14/ac/14ac861b1f16e4ec9468894723077f50/14ac861b1f16e4ec9468894723077f50.jpg" group-title="HOLLYWOOD MOVIES",THE TRANSPORTER  (2002)
-https://evif.onthecloudcdn.com/_v10/37ebc56e476379cc33b65def657c00f1c31d048b550f3eac1ae69c38b38af9f0224b566672f6c7694276cc4acb72620d3f34f46b7b1cd09cc9d6fd1b021cec2fe44385394419e4c858e56982b45ff1e1ca816bb9afe63df196a89b4e33e64f19666047f7374b4371b88780b85ba4fe60a72bed8a53472fa592f5cb0c3448c515/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/37ebc56e476379cc33b65def657c00f1c31d048b550f3eac1ae69c38b38af9f0224b566672f6c7694276cc4acb72620d3f34f46b7b1cd09cc9d6fd1b021cec2fe44385394419e4c858e56982b45ff1e1ca816bb9afe63df196a89b4e33e64f19666047f7374b4371b88780b85ba4fe60a72bed8a53472fa592f5cb0c3448c515/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/09/a7/09a79ca83011e171ce8fa05507d3ba77/09a79ca83011e171ce8fa05507d3ba77.jpg" group-title="HOLLYWOOD MOVIES",THE TRANSPORTER 2  (2005)
-https://evif.onthecloudcdn.com/_v10/509930c56e26c92b39612ceae1930e8577cd00d893e76b245981c10a384194ef2c80ef798bb084587635b66ec827cdba23125427a5a81da0fc42aa48e5df05b2f4cb78b5fd604eca9adf1f09d6f310409f90bebdeb334e6e01a77a56f0aeebbbcfa2b6f16526776c831509163afd028f7462ca8be0cd4f0f5dcedba47d2432c9/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/509930c56e26c92b39612ceae1930e8577cd00d893e76b245981c10a384194ef2c80ef798bb084587635b66ec827cdba23125427a5a81da0fc42aa48e5df05b2f4cb78b5fd604eca9adf1f09d6f310409f90bebdeb334e6e01a77a56f0aeebbbcfa2b6f16526776c831509163afd028f7462ca8be0cd4f0f5dcedba47d2432c9/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/14/b8/14b836b517fc1421ad42e49a531d6b51/14b836b517fc1421ad42e49a531d6b51.jpg" group-title="HOLLYWOOD MOVIES",THE TRANSPORTER 3  (2008)
-https://evif.onthecloudcdn.com/_v10/cf1fa17616c4e95819cad35acd5d664ae23f06cb652f75d2d4a33b3202601021e11a3982f8eaac281a38ec3ac1708874fce3ea0ebb834687c16742a062b7598b96e3ecf1d6721c3aa5909156d271bf67f202d1d8159b63de2c41886d22534f600ea740816eb784831a08145c2d898851e8fb1a9509e6dca3c39959de1adcd737/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/cf1fa17616c4e95819cad35acd5d664ae23f06cb652f75d2d4a33b3202601021e11a3982f8eaac281a38ec3ac1708874fce3ea0ebb834687c16742a062b7598b96e3ecf1d6721c3aa5909156d271bf67f202d1d8159b63de2c41886d22534f600ea740816eb784831a08145c2d898851e8fb1a9509e6dca3c39959de1adcd737/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/d9/77/d977df2926f6bdd32b2d200694fb5519/d977df2926f6bdd32b2d200694fb5519.jpg" group-title="HOLLYWOOD MOVIES",COLONIALS (2023)
 https://evif.onthecloudcdn.com/_v10/dad48f1144030d7434be148bc0902a1799709e39acbe6a362ee2745d92107640eea9e06a0885288fc5018815f6c2072696b58f7717ff3594a16a06a6c04a658902ddc87d5135e68fca351779a956e26502f0eb92693c93eacce602cbbb917faeb5516e073db493f99854d3ae22916951d4ccd94735d49925bfea3c509ed34978/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/a7/22/a722d4c04234672e0f59f65eb21e9e62/a722d4c04234672e0f59f65eb21e9e62.jpg" group-title="HOLLYWOOD MOVIES",SHE IS LOVE (2022)
-https://evif.onthecloudcdn.com/_v10/4e9d8b31c2fdd6734e2a77d624ece85a75d19beab4e2f38606b8301096213514ac5e66e9e2d51a06ea7f0a52092383f522ed4221430e16c91c3cc80527fa1d3057e96668cc65e0d130c50baf3344f5b28d08b5dc420dd035c5c09d3f23d36aba7a5e43f180becfceb0fee3e896a7f9977652848228ab3a62d27e13ab099d8ab2/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/4e9d8b31c2fdd6734e2a77d624ece85a75d19beab4e2f38606b8301096213514ac5e66e9e2d51a06ea7f0a52092383f522ed4221430e16c91c3cc80527fa1d3057e96668cc65e0d130c50baf3344f5b28d08b5dc420dd035c5c09d3f23d36aba7a5e43f180becfceb0fee3e896a7f9977652848228ab3a62d27e13ab099d8ab2/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/eb/18/eb18b7d6593ae2ced3e2718016435104/eb18b7d6593ae2ced3e2718016435104.jpg" group-title="HOLLYWOOD MOVIES",JACIR (2022)
-https://evif.onthecloudcdn.com/_v10/4dce9a0c85d70258cbaa123da4c9bdb3d1c8463dea3e1f738487929ba4ae4b6db250681df0dd306ab1e7a8b31424ba0c22b484878af6505f2d522ec27b5952b891c28bb3d3cecfe157e9f5547b8cd87a5ca8b8d18d50472ab036c794b12012966125b79215d743c2620a1485dbaec7344112c440413c08657e8dd16280aa9792/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/4dce9a0c85d70258cbaa123da4c9bdb3d1c8463dea3e1f738487929ba4ae4b6db250681df0dd306ab1e7a8b31424ba0c22b484878af6505f2d522ec27b5952b891c28bb3d3cecfe157e9f5547b8cd87a5ca8b8d18d50472ab036c794b12012966125b79215d743c2620a1485dbaec7344112c440413c08657e8dd16280aa9792/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/7e/6d/7e6d2f7a1b42d5c98f6d6ef4dcedf6e2/7e6d2f7a1b42d5c98f6d6ef4dcedf6e2.jpg" group-title="HOLLYWOOD MOVIES",TRANSFORMERS (2007)
-https://evif.onthecloudcdn.com/_v10/4d9bde9ff1b07a98bf42c83ee803ef5253350b15c5b90e74a3b4018fa8a471e1c7afd1faa6c83e1f2267123e9536bfc316bf7441bbf35a61c043a8c5d6a750cfb1a016f01c4c1e090879599b82c67edd6afc2a8d6d3dc6ddf97cd7d3ff1212b4bf19c590b0c4020bfd8cdcebee7c14fdeb6ae9ab802e0a8019d6a6a901695e6f/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/4d9bde9ff1b07a98bf42c83ee803ef5253350b15c5b90e74a3b4018fa8a471e1c7afd1faa6c83e1f2267123e9536bfc316bf7441bbf35a61c043a8c5d6a750cfb1a016f01c4c1e090879599b82c67edd6afc2a8d6d3dc6ddf97cd7d3ff1212b4bf19c590b0c4020bfd8cdcebee7c14fdeb6ae9ab802e0a8019d6a6a901695e6f/1080/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/f7/88/f788c5aee12b2c76d49fb6d01b56e06b/f788c5aee12b2c76d49fb6d01b56e06b.jpg" group-title="HOLLYWOOD MOVIES",TRANSFORMERS: REVENGE OF THE FALLEN  (2009)
+https://evif.onthecloudcdn.com/_v10/66e62eac0939b6620891a3020850cf5a8de58c32d56c381232fc340d44f9a1bc450424582f7b7c747544beb727ca7769d9dfbd996d21b3546b7b34e52db948ceeed0a0eeb3473731a835902766592142387fbbb5203771bf44498305e3d4b9c85f097dbb1ea0af66df1a3d1642cd16bbdefd8cf9dcff3e04b56881906ea6e7bd/1080/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/4e/93/4e9371299eae7083b3632d7a80d2df35/4e9371299eae7083b3632d7a80d2df35.jpg" group-title="HOLLYWOOD MOVIES",TRANSFORMERS: DARK OF THE MOON  (2011)
+https://evif.onthecloudcdn.com/_v10/7f1d9df133ce7432c8edd8950bc8fbc9a80cb9c0adf7992200ff3bd47d83e1cfd90de4ef29e26908c662adfd7f2a4251a106522e0fbe111d567b8110620aa6c372959618f463f60e8833d3750253e353c33f4acc41b36b2bd91fd45d8d1a3f9b61ea951aff442bd9590dfedfdc0ebc769a43f92f1aeb0f53dfde38cd922bc9ce/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/d7/c3/d7c3441f36787f79f393281b2a7c7c52/d7c3441f36787f79f393281b2a7c7c52.jpg" group-title="HOLLYWOOD MOVIES",TRANSFORMERS: AGE OF EXTINCTION  (2014)
-https://evif.onthecloudcdn.com/_v10/d2dcaefa022feae6172b9fb5eea8809419958245eca695acac675f46801bc418561583b54249f8f1a526f7f6e1641a13fd2ea489083975deca2ab6e67b597e7c6cc915d2a8afa89d958216106231b54c8ee1da6ee9de3bd9bee35788458197cb79ac093f2e3fbcb2f6287f8c2c24db19a07870ed56a89c64c2ed52398a848b03/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/d2dcaefa022feae6172b9fb5eea8809419958245eca695acac675f46801bc418561583b54249f8f1a526f7f6e1641a13fd2ea489083975deca2ab6e67b597e7c6cc915d2a8afa89d958216106231b54c8ee1da6ee9de3bd9bee35788458197cb79ac093f2e3fbcb2f6287f8c2c24db19a07870ed56a89c64c2ed52398a848b03/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/37/df/37dfe388a8ba1264bf241afb0809e9a6/37dfe388a8ba1264bf241afb0809e9a6.jpg" group-title="HOLLYWOOD MOVIES",TRANSFORMERS: THE LAST KNIGHT  (2017)
 https://evif.onthecloudcdn.com/_v10/7a75f09aba041828460010774447c15c1e630511de442c5b151f99eeb6c4f0a9e50facd85c31af4400c0c399629b987ca8d3431b3e0c5e74b9ba813489bf6ef98fc7d2603692b8d86fc7be5230cf78d916bee9f5b9b227992ebc3eccb87680a440370b6e1a2d7d684293e1e079ff09c412e8558aa5d631a36e6c5abf812a433a/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/4e/93/4e9371299eae7083b3632d7a80d2df35/4e9371299eae7083b3632d7a80d2df35.jpg" group-title="HOLLYWOOD MOVIES",TRANSFORMERS: DARK OF THE MOON  (2011)
-https://evif.onthecloudcdn.com/_v10/7f1d9df133ce7432c8edd8950bc8fbc9a80cb9c0adf7992200ff3bd47d83e1cfd90de4ef29e26908c662adfd7f2a4251a106522e0fbe111d567b8110620aa6c372959618f463f60e8833d3750253e353c33f4acc41b36b2bd91fd45d8d1a3f9b61ea951aff442bd9590dfedfdc0ebc769a43f92f1aeb0f53dfde38cd922bc9ce/720/index.m3u8
-
-#EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/f7/88/f788c5aee12b2c76d49fb6d01b56e06b/f788c5aee12b2c76d49fb6d01b56e06b.jpg" group-title="HOLLYWOOD MOVIES",TRANSFORMERS: REVENGE OF THE FALLEN  (2009)
-https://evif.onthecloudcdn.com/_v10/66e62eac0939b6620891a3020850cf5a8de58c32d56c381232fc340d44f9a1bc450424582f7b7c747544beb727ca7769d9dfbd996d21b3546b7b34e52db948ceeed0a0eeb3473731a835902766592142387fbbb5203771bf44498305e3d4b9c85f097dbb1ea0af66df1a3d1642cd16bbdefd8cf9dcff3e04b56881906ea6e7bd/720/index.m3u8
+#EXTINF:0 tvg-logo="https://img.actvid.rs/xxrz/250x400/189/35/34/3534b9bf9505c28893f0204d0f77a00a/3534b9bf9505c28893f0204d0f77a00a.jpg" group-title="HOLLYWOOD MOVIES",TRANSFORMERS: TRANSFORMERS: RISE OF THE BEASTS  (2023)
+https://evif.onthecloudcdn.com/_v10/59eaf9b9667212c820f71f4eaf565903a84eff7578e58929a7cfd36c36294ce25e58b736036c5ace9d9aba3aac9db7851dc7990a682ddcf1e2a3ba8e521928ca9824a718d91ac75447237a526b4253a2bf4c4d748698717d3e087f36545cff12b5d71cb5d40b63f96877d818b97390cf18231ccdc6bddf2a23bd9bb999418c6d11341fc36b3c5008d5ccdcb7cba83f24/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/2a/a5/2aa51e4d8f32f842711f94a2624885d6/2aa51e4d8f32f842711f94a2624885d6.jpg" group-title="HOLLYWOOD MOVIES",X-MEN  (2000)
-https://evif.onthecloudcdn.com/_v10/b79d2976ffcc5e5a4ee573c8edbdb4b43b1e40c6d74154853adfe619c0092e93bb3a22a9a7e67f99e1ba3c16e41cfc89a42536cf82b48c2e4a3240649f22945e493cbdd7a1a57835e337b8e196bc025b156b00cbdbfd97aba2c1d9036e954899a16c4095f82a7e11368e5a1b0a1e03f690c12ed6b896a125651bac1f0decc195/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/b79d2976ffcc5e5a4ee573c8edbdb4b43b1e40c6d74154853adfe619c0092e93bb3a22a9a7e67f99e1ba3c16e41cfc89a42536cf82b48c2e4a3240649f22945e493cbdd7a1a57835e337b8e196bc025b156b00cbdbfd97aba2c1d9036e954899a16c4095f82a7e11368e5a1b0a1e03f690c12ed6b896a125651bac1f0decc195/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/10/78/1078d7da17d50dcafa688ac0baab027f/1078d7da17d50dcafa688ac0baab027f.jpg" group-title="HOLLYWOOD MOVIES",X-MEN: APOCALYPSE  (2016)
-https://evif.onthecloudcdn.com/_v10/8405e2595f506367b249dd1bcaa105c17266738ba00ec8f1eb176f933e7675fa9fa40df860bf681551b7467d679dd959f7d4f20cc9c268242ac43f53900a832570cc9d75f7bb7b3726a207ed335d04c1497c005f6ced8a2d8f87096cb37703b629d5c12c54a8f137430a08147041f6c12917d984650d9af6502d49f9751d0993/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/8405e2595f506367b249dd1bcaa105c17266738ba00ec8f1eb176f933e7675fa9fa40df860bf681551b7467d679dd959f7d4f20cc9c268242ac43f53900a832570cc9d75f7bb7b3726a207ed335d04c1497c005f6ced8a2d8f87096cb37703b629d5c12c54a8f137430a08147041f6c12917d984650d9af6502d49f9751d0993/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/47/32/4732cb5ebc9db76196f20202dd0d610b/4732cb5ebc9db76196f20202dd0d610b.jpg" group-title="HOLLYWOOD MOVIES",X-MEN ORIGINS: WOLVERINE  (2009)
-https://evif.onthecloudcdn.com/_v10/44d766c838a7db0c97ad6aed3b421191d7980abf38e2890484d885958545a1127345ae55569120d12f926efc6f34f94fda3d08e3a3f1452febfb177ac2af40977b78e6638fcdeb186ecc11c0c352a6d3f42a99ccdef384239079f3986b69e6e499f7dd8d1054656b0d5332ebfdfc4da75ee786313945837c663fb1e606a2d322/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/44d766c838a7db0c97ad6aed3b421191d7980abf38e2890484d885958545a1127345ae55569120d12f926efc6f34f94fda3d08e3a3f1452febfb177ac2af40977b78e6638fcdeb186ecc11c0c352a6d3f42a99ccdef384239079f3986b69e6e499f7dd8d1054656b0d5332ebfdfc4da75ee786313945837c663fb1e606a2d322/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/42/89/42899cc783fac779c091e7c29403b580/42899cc783fac779c091e7c29403b580.jpg" group-title="HOLLYWOOD MOVIES",X-MEN: FIRST CLASS  (2011)
-https://evif.onthecloudcdn.com/_v10/7cdfab4174f96fd07959a832c7875932ab7bd770b36e6c13b398ad21ded96582b4be386d2662b0fec587865c52cd8be12613eb159bc5d2e88a478435022451f04ffaa32a876e11060cf626000044f9b2e5c2b06cd195fe19a2f4efecbdc9d23c2e4232076c9c9bbe9ffeb1f64e7e8d81e36403fca5da87de5850e32b305e0b3f/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/7cdfab4174f96fd07959a832c7875932ab7bd770b36e6c13b398ad21ded96582b4be386d2662b0fec587865c52cd8be12613eb159bc5d2e88a478435022451f04ffaa32a876e11060cf626000044f9b2e5c2b06cd195fe19a2f4efecbdc9d23c2e4232076c9c9bbe9ffeb1f64e7e8d81e36403fca5da87de5850e32b305e0b3f/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/66/a1/66a1f881b34156f28fbdf9b6f7614fee/66a1f881b34156f28fbdf9b6f7614fee.jpg" group-title="HOLLYWOOD MOVIES",X-MEN: THE LAST STAND  (2006)
-https://evif.onthecloudcdn.com/_v10/7034a2b5780a4fe3ef3a6edbb5ae0d80dc9c57a6b44ad2439ea4a168daef4cbc1a6bce26b0a0aca40aa6c8fdd77bc076e994eacff278c979dc70a2018b246cde201ad824f31314cca00108833f03076e39d462e21e085c2949e44e004e92f2ee1226a19452e05a33dde29d7e5d9498f53426c1e866664b63e0c30c3bfd34311a/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/7034a2b5780a4fe3ef3a6edbb5ae0d80dc9c57a6b44ad2439ea4a168daef4cbc1a6bce26b0a0aca40aa6c8fdd77bc076e994eacff278c979dc70a2018b246cde201ad824f31314cca00108833f03076e39d462e21e085c2949e44e004e92f2ee1226a19452e05a33dde29d7e5d9498f53426c1e866664b63e0c30c3bfd34311a/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/bc/bc/bcbc9c7a9296a3076101deea4c5fb192/bcbc9c7a9296a3076101deea4c5fb192.jpg" group-title="HOLLYWOOD MOVIES",TO CATCH A KILLER (2023)
-https://evif.onthecloudcdn.com/_v10/ef15fa87c357afd94bee0dfd7b5681f37c75e9330d056bbf0e6ac56923af11012a179b46145a17147e1aeb626963d1328f1c672993a597b28ff6f0b4c336905bc690260a00014b00564aed42930a3944736fb5ef2c8e8025526500be699afe08d86f00d68d3b158dac40795e02854048d372a00d43a085f1590c0b178791993f/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/ef15fa87c357afd94bee0dfd7b5681f37c75e9330d056bbf0e6ac56923af11012a179b46145a17147e1aeb626963d1328f1c672993a597b28ff6f0b4c336905bc690260a00014b00564aed42930a3944736fb5ef2c8e8025526500be699afe08d86f00d68d3b158dac40795e02854048d372a00d43a085f1590c0b178791993f/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/05/32/0532d0cfab23eb90cd77c0fd5168d5d2/0532d0cfab23eb90cd77c0fd5168d5d2.jpg" group-title="HOLLYWOOD MOVIES",SISU (2022)
-https://evif.onthecloudcdn.com/_v10/80543dfdf90437a64e597b8fa330b1bd65ad2c26a7f5f0e52f7f25b8333270457f26182ff8867badb1ac6f7cdacb7bf6c21b24fa70168a3b42b0467279b363446e77d2ce0f99fcbb0210e19269a6cd462222c9663c0a66c4a1916ef6cfc6bbb0d1a88dbc702af4a0ff018e3391a321afc5154b29d3531c1466592156f47c9cf5/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/80543dfdf90437a64e597b8fa330b1bd65ad2c26a7f5f0e52f7f25b8333270457f26182ff8867badb1ac6f7cdacb7bf6c21b24fa70168a3b42b0467279b363446e77d2ce0f99fcbb0210e19269a6cd462222c9663c0a66c4a1916ef6cfc6bbb0d1a88dbc702af4a0ff018e3391a321afc5154b29d3531c1466592156f47c9cf5/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/b4/d9/b4d92dc34e2e5955181cbae0b2364ec9/b4d92dc34e2e5955181cbae0b2364ec9.jpg" group-title="HOLLYWOOD MOVIES",AMBUSH (2023)
-https://evif.onthecloudcdn.com/_v10/63ea25b2d6fdb88c8cc70762ba89cf222e39a67cd3b44c92d32eb9814f5e3c1525caccc2007912495e7e138b84152de88b992e1f48c5df00bfc59e02c51c16ee048c492a5aa7177ea39b1db6b65f6a5db2bcd12c84214ad3cfb9e6519875e137aaa3c77fcf46a27d01e7fb35674d7cd202e14096293aaa4b4168d77357c7d4db/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/63ea25b2d6fdb88c8cc70762ba89cf222e39a67cd3b44c92d32eb9814f5e3c1525caccc2007912495e7e138b84152de88b992e1f48c5df00bfc59e02c51c16ee048c492a5aa7177ea39b1db6b65f6a5db2bcd12c84214ad3cfb9e6519875e137aaa3c77fcf46a27d01e7fb35674d7cd202e14096293aaa4b4168d77357c7d4db/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/f2/aa/f2aae459d833333302ee02fb66abb455/f2aae459d833333302ee02fb66abb455.jpg" group-title="HOLLYWOOD MOVIES",CONDOR'S NEST (2023)
-https://evif.onthecloudcdn.com/_v10/f73a612f4bb9014fc83d42c7e3beb51e7a6370248394036799cc8d483a7b6beddcab1105eed66893441550169376dccbd844110bae86c2130f4e472e7557266f67ab23bef295987c0bf740c9ddec4ed5b09882d1f35eac6c26d19494a84863b114025fa6fc1b7e760ad87cbfbe46bb50d3b74051f051478198a2af6baf52f5c5/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/f73a612f4bb9014fc83d42c7e3beb51e7a6370248394036799cc8d483a7b6beddcab1105eed66893441550169376dccbd844110bae86c2130f4e472e7557266f67ab23bef295987c0bf740c9ddec4ed5b09882d1f35eac6c26d19494a84863b114025fa6fc1b7e760ad87cbfbe46bb50d3b74051f051478198a2af6baf52f5c5/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/2c/e7/2ce78da094c6a33bccd6256cc913571c/2ce78da094c6a33bccd6256cc913571c.jpg" group-title="HOLLYWOOD MOVIES",THE MOUNT 2 (2022)
-https://evif.onthecloudcdn.com/_v10/6c887800d816e0c21337c348f8362c9f4cf0abcb17c1765ea9a23e4cb20b96e0ac615da84531813e7804f9c150b989ceb928a6bf314ab0999ef639093c43d86d0ff4b37a8228a6ce794298fa9762ae3212e7921bae1c2b3c635deac4b75b8a637f8646f0ed072fdecbf5ecf227453bc55d16b9453371a6c05f87f52f9b4b9886/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/6c887800d816e0c21337c348f8362c9f4cf0abcb17c1765ea9a23e4cb20b96e0ac615da84531813e7804f9c150b989ceb928a6bf314ab0999ef639093c43d86d0ff4b37a8228a6ce794298fa9762ae3212e7921bae1c2b3c635deac4b75b8a637f8646f0ed072fdecbf5ecf227453bc55d16b9453371a6c05f87f52f9b4b9886/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/17/b3/17b321737adba1f4e75f934cf8bd6085/17b321737adba1f4e75f934cf8bd6085.jpg" group-title="HOLLYWOOD MOVIES",MIGHTY MORPHIN POWER RANGERS: ONCE & ALWAYS (2023)
-https://evif.onthecloudcdn.com/_v10/81f5b791aa295089c57b6af128881ae43de9eda76d92614a5492e8fc242331c1056ed8fa41040cb74b9eb2f755c152413532ced042da4da90a62a45af828e30b430e4645a82b06782206f408b13e1fc89d6ae85daa60990286e504db89a9b8e8b1f8ff350bac026b126ebc95e33dca64f60341c95459c5c8e5791e26ac8c9e7a/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/81f5b791aa295089c57b6af128881ae43de9eda76d92614a5492e8fc242331c1056ed8fa41040cb74b9eb2f755c152413532ced042da4da90a62a45af828e30b430e4645a82b06782206f408b13e1fc89d6ae85daa60990286e504db89a9b8e8b1f8ff350bac026b126ebc95e33dca64f60341c95459c5c8e5791e26ac8c9e7a/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/ec/4c/ec4cd4b00bfbca394f47920091974a31/ec4cd4b00bfbca394f47920091974a31.jpg" group-title="HOLLYWOOD MOVIES",CAVIAR (2023)
-https://evif.onthecloudcdn.com/_v10/7e6832740360fda8020ce7eb9eba95e4fbe7c7f7e3d80c1507c1abada7d642d42f27146f522e4fb1ec594cffe0a4192cf70c84ea4f2d7e988832a526d95802a15867c34f4515c0be9583eeae1b1430ae2dc0aa85d3dcc4ea487beb4e8182266ecabed58b7fc0c0a8079625c897f5a9ff86e22dff883fa7a91ea325c21ed28b7a/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/7e6832740360fda8020ce7eb9eba95e4fbe7c7f7e3d80c1507c1abada7d642d42f27146f522e4fb1ec594cffe0a4192cf70c84ea4f2d7e988832a526d95802a15867c34f4515c0be9583eeae1b1430ae2dc0aa85d3dcc4ea487beb4e8182266ecabed58b7fc0c0a8079625c897f5a9ff86e22dff883fa7a91ea325c21ed28b7a/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/ca/01/ca01e5157b39994af2f81200256e6114/ca01e5157b39994af2f81200256e6114.jpg" group-title="HOLLYWOOD MOVIES",STAY OUT OF THE BASEMENT (2023)
-https://evif.onthecloudcdn.com/_v10/a2c605a4eedffa7dae0f8a8d1e1c6907b28ae0db3f8b43e5c4b7886dae3b5f7208b1d2f564208fa12563ee5cd0288cba4a2f74333e473921a4d9a2b7f403b95e66e84ca941e057697c64ed33ed7c331a704cbd685addfa95da07c4967116d9431b63a8a99eb9060c28706198551c8870f98d79ed3d93cec7717bba521aaecb86/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/a2c605a4eedffa7dae0f8a8d1e1c6907b28ae0db3f8b43e5c4b7886dae3b5f7208b1d2f564208fa12563ee5cd0288cba4a2f74333e473921a4d9a2b7f403b95e66e84ca941e057697c64ed33ed7c331a704cbd685addfa95da07c4967116d9431b63a8a99eb9060c28706198551c8870f98d79ed3d93cec7717bba521aaecb86/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/2a/6d/2a6d420483e186504c56f8c81f41e72c/2a6d420483e186504c56f8c81f41e72c.jpg" group-title="HOLLYWOOD MOVIES",WAR OF THE WORLDS: THE ATTACK (2023)
-https://evif.onthecloudcdn.com/_v10/7073a35666fe06c1112e4b8bbd9d797cca2a8fbbea658e521b26c86623f1003d66ebc172a11fa798eeddab82e916cdb71f2d7109f533c7ac9001052645352d42c364b5e48c0176e85b31ab8409a82e779fe0fcdc1a14c73175d7e0118b1dde84c456720fe9debbb4bc8985c004e87f235d4a0f5dc94b91344f9a3cf6699790c1/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/7073a35666fe06c1112e4b8bbd9d797cca2a8fbbea658e521b26c86623f1003d66ebc172a11fa798eeddab82e916cdb71f2d7109f533c7ac9001052645352d42c364b5e48c0176e85b31ab8409a82e779fe0fcdc1a14c73175d7e0118b1dde84c456720fe9debbb4bc8985c004e87f235d4a0f5dc94b91344f9a3cf6699790c1/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/94/17/941798d0b14f513f4d4579da3393f588/941798d0b14f513f4d4579da3393f588.jpg" group-title="HOLLYWOOD MOVIES",JOHN WICK: CHAPTER 1  (2014)
-https://evif.onthecloudcdn.com/_v10/c9af48f8162b44f53c370ac8c05a58fdf9731d129a9214db71a8cfe7e0537695a43779d86aca8067238fdb0d55bbbe8e4d76c1aaae4670cb078c37bca91983dbf3fd9447833a8f8a27948d1a86bc714a55e39e67803cb52e1c1f16ea126ffc522f5cddf5191bd12b263048827e5e0f2dac3045f2abea055e0e0be218f02d1ada/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/c9af48f8162b44f53c370ac8c05a58fdf9731d129a9214db71a8cfe7e0537695a43779d86aca8067238fdb0d55bbbe8e4d76c1aaae4670cb078c37bca91983dbf3fd9447833a8f8a27948d1a86bc714a55e39e67803cb52e1c1f16ea126ffc522f5cddf5191bd12b263048827e5e0f2dac3045f2abea055e0e0be218f02d1ada/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/65/ec/65ecab8221f5eac024f56bbb39a51cde/65ecab8221f5eac024f56bbb39a51cde.jpg" group-title="HOLLYWOOD MOVIES",JOHN WICK: CHAPTER 2 (2017)
-https://evif.onthecloudcdn.com/_v10/339248e26075734d35495aebbc1f6c397f00f14c966eef64bee3d56804d905fab71903a2b0ea96474f54ac8aefcd6dec27cdcb31dcd839c659f699d59beb07d2d467ce022634dbcae55ef0c486cfb3df3be4b6c7fe70fb9b9058e63bd5a3e0b6f321789636954c7e09ddc8f7e30d18c148936ac511f9f42fb95a91eb7c1b6b3c/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/339248e26075734d35495aebbc1f6c397f00f14c966eef64bee3d56804d905fab71903a2b0ea96474f54ac8aefcd6dec27cdcb31dcd839c659f699d59beb07d2d467ce022634dbcae55ef0c486cfb3df3be4b6c7fe70fb9b9058e63bd5a3e0b6f321789636954c7e09ddc8f7e30d18c148936ac511f9f42fb95a91eb7c1b6b3c/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/eb/6f/eb6f0f7dfd29246c633e38d0e7ea4346/eb6f0f7dfd29246c633e38d0e7ea4346.jpg" group-title="HOLLYWOOD MOVIES",JOHN WICK: CHAPTER 3 (2019)
-https://evif.onthecloudcdn.com/_v10/a0c5a7e8a8831e74afa7760dce0fa3a8c2f0099398ba11a3bb91b16de6a1113346c09186353c69f2255b125f17c734554ffc84d9dbf9596fc348607e311ba9cab3e38e806a6cc250c011bed2d1ccf1c00ece960d832414ddf993cf603d0cafa5e703f8c93eb205f125c7d54bde06ea9500004607abfcce16e0daee1c5b50d747/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/a0c5a7e8a8831e74afa7760dce0fa3a8c2f0099398ba11a3bb91b16de6a1113346c09186353c69f2255b125f17c734554ffc84d9dbf9596fc348607e311ba9cab3e38e806a6cc250c011bed2d1ccf1c00ece960d832414ddf993cf603d0cafa5e703f8c93eb205f125c7d54bde06ea9500004607abfcce16e0daee1c5b50d747/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/1e/9e/1e9efbf118acd1e7661d144868dc5ef5/1e9efbf118acd1e7661d144868dc5ef5.jpg" group-title="HOLLYWOOD MOVIES",JOHN WICK: CHAPTER 4 (2023)
-https://evif.onthecloudcdn.com/_v10/e87f231b367d9120fce53210c6d4d7e55a7a54764ca17a4b83ba8d354c8220d8953ba39d5a7662d491056ecb24e31a1a23f4e78ea5d6509da4265afff940c5e95ba23657fc4930446412a8215d3db8f66bc6903855bdc844bcebb764a0fa68a75fe57a372e3939ca4fd096a00951a8092156cdfd8700c2c2e89d18f8369d39c3/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/e87f231b367d9120fce53210c6d4d7e55a7a54764ca17a4b83ba8d354c8220d8953ba39d5a7662d491056ecb24e31a1a23f4e78ea5d6509da4265afff940c5e95ba23657fc4930446412a8215d3db8f66bc6903855bdc844bcebb764a0fa68a75fe57a372e3939ca4fd096a00951a8092156cdfd8700c2c2e89d18f8369d39c3/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/f0/c2/f0c2e7916cf3be32a3a0543e24fce558/f0c2e7916cf3be32a3a0543e24fce558.jpg" group-title="HOLLYWOOD MOVIES",INSIDIOUS: CHAPTER 1 (2010)
-https://evif.onthecloudcdn.com/_v10/3eb227fcdcc77729e0bbde93d2a1fd8b1c7bd065cdda511c8b2e0d28f08a0f659956d8599dccfe28e9807e59cb4a9225ec136604745ddd39de0c1d2fc9931c06db668bc1b1608ec5d84d43f107784f0e5cd8b7cd95cf448c585ca7a7cfe35baabc5984a5d2ab3da05bcebe2b77a58912fcbe9637aa0467c8fe0b004b2c1939b0/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/3eb227fcdcc77729e0bbde93d2a1fd8b1c7bd065cdda511c8b2e0d28f08a0f659956d8599dccfe28e9807e59cb4a9225ec136604745ddd39de0c1d2fc9931c06db668bc1b1608ec5d84d43f107784f0e5cd8b7cd95cf448c585ca7a7cfe35baabc5984a5d2ab3da05bcebe2b77a58912fcbe9637aa0467c8fe0b004b2c1939b0/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/87/16/8716a427db1f5351a4d0ed7cb5f05ceb/8716a427db1f5351a4d0ed7cb5f05ceb.jpg" group-title="HOLLYWOOD MOVIES",INSIDIOUS: CHAPTER 2 (2013)
-https://evif.onthecloudcdn.com/_v10/09894a8ab959db28d504cd4e6332e316492ec9d705d48ebf11af3c6b012aae9069c3b56a7328a48f1111a9360db43feda9575ec5cab0d3708c8a9bce4c0ddd7061758837a33b03f541a8cc56ed5a9506df34f78282fc7c01deb992ff6fdce6602e621637937a6b8d0986eb767c2e3fcc934d2a6e08083382026a9bca6ffe84ec/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/09894a8ab959db28d504cd4e6332e316492ec9d705d48ebf11af3c6b012aae9069c3b56a7328a48f1111a9360db43feda9575ec5cab0d3708c8a9bce4c0ddd7061758837a33b03f541a8cc56ed5a9506df34f78282fc7c01deb992ff6fdce6602e621637937a6b8d0986eb767c2e3fcc934d2a6e08083382026a9bca6ffe84ec/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/59/d0/59d0ea2b80cb908394ec690d74cc2b05/59d0ea2b80cb908394ec690d74cc2b05.jpg" group-title="HOLLYWOOD MOVIES",INSIDIOUS: CHAPTER 3 (2015)
-https://evif.onthecloudcdn.com/_v10/0608e0ac3a100f2409ead00aaaa95595cfe710030d1900f9e0b9087eec8681ceb74ce550e587ef0b5182aefacef7a1b626107b5fb3b44e4f1989ce8b51e771d8903fefed85f31d490bba9064882cc173c8f11910ece37c9f0f7164cbb62afba67f242cd14e5ec50d3e71f7e4d40fa8430cc89a128cbd042918a0ce728fd26c79/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/0608e0ac3a100f2409ead00aaaa95595cfe710030d1900f9e0b9087eec8681ceb74ce550e587ef0b5182aefacef7a1b626107b5fb3b44e4f1989ce8b51e771d8903fefed85f31d490bba9064882cc173c8f11910ece37c9f0f7164cbb62afba67f242cd14e5ec50d3e71f7e4d40fa8430cc89a128cbd042918a0ce728fd26c79/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/9c/75/9c751dd08eeccbdc172333471cf82206/9c751dd08eeccbdc172333471cf82206.jpg" group-title="HOLLYWOOD MOVIES",INSIDIOUS: CHAPTER 4 (2018)
-https://evif.onthecloudcdn.com/_v10/a1513fd082242eecd636ffb62a4a7733d8cf07a59c184ac5849e2a957955f0431ce3175028ac8e608a277b7b95ec7d1b14724276940a88510cbb6019c4fea43ee988faeab60f7b85057e6169bc6f5b5fe5dae1ffdb53d9e2c89c24865374d471f9e7179bf8468b5824cfbed3a6de7a9ed2a8019bf90ac2536b2b43f90915f0e6/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/a1513fd082242eecd636ffb62a4a7733d8cf07a59c184ac5849e2a957955f0431ce3175028ac8e608a277b7b95ec7d1b14724276940a88510cbb6019c4fea43ee988faeab60f7b85057e6169bc6f5b5fe5dae1ffdb53d9e2c89c24865374d471f9e7179bf8468b5824cfbed3a6de7a9ed2a8019bf90ac2536b2b43f90915f0e6/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.rs/xxrz/250x400/189/78/c9/78c96f808a1e0d6691880772050f367c/78c96f808a1e0d6691880772050f367c.jpg" group-title="HOLLYWOOD MOVIES",INSIDIOUS: CHAPTER 5 (2023)
-https://evif.onthecloudcdn.com/_v10/751e638bc53fa7958af3a267bec46e6bc1922875a54ed13623f8888088b7fa6f5db606233f29683f886ebf1712b06e55bd52bea7867223399d5d1c901c05dab277ea8e0c6fbdf3e348d83aaa998a7c2401ae2390837c7da282cad6ff9f08d14a9b83efa05f5cb31dab33cc7c7823ba0daa5f87d6bf97f71d2634f2f21f864e0dbf62ce90b0a74712a54366dd32544dca/1080/index.m3u8
+https://evif.onthecloudcdn.com/_v10/751e638bc53fa7958af3a267bec46e6bc1922875a54ed13623f8888088b7fa6f5db606233f29683f886ebf1712b06e55bd52bea7867223399d5d1c901c05dab277ea8e0c6fbdf3e348d83aaa998a7c2401ae2390837c7da282cad6ff9f08d14a9b83efa05f5cb31dab33cc7c7823ba0dce5a73464bd10474603ce7219b8e63326349f8cc9f74a8ec85a6b939ba7b0108/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/51/c9/51c9518fd94a2f27adb6913aeaef016e/51c9518fd94a2f27adb6913aeaef016e.jpg" group-title="HOLLYWOOD MOVIES",THE EXORCISM OF EMILY ROSE (2005)
-https://evif.onthecloudcdn.com/_v10/9ee5c4b10191adcb7738ee39fc0df0309c2bade03056c5eb65447231c0d6662ee9bc7b941f69804f5b1470579d08a0c3d120bb5d2b8e8e24ab840e840f6fd244e070e698c79e8c4c63ba4f190e744f16cec13582afcac4450bafbb69e725c815c24afc8f0f8cb0f87aa95224737c8d7cfbe48a9125eec6db1b2e95f9ff0a62f3/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/9ee5c4b10191adcb7738ee39fc0df0309c2bade03056c5eb65447231c0d6662ee9bc7b941f69804f5b1470579d08a0c3d120bb5d2b8e8e24ab840e840f6fd244e070e698c79e8c4c63ba4f190e744f16cec13582afcac4450bafbb69e725c815c24afc8f0f8cb0f87aa95224737c8d7cfbe48a9125eec6db1b2e95f9ff0a62f3/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/57/ec/57ec752666c6139d90be4f0648f97749/57ec752666c6139d90be4f0648f97749.jpg" group-title="HOLLYWOOD MOVIES",THE AVENGERS (2012)
-https://evif.onthecloudcdn.com/_v10/76743647dc17a70692423388d237236efe380b143927833a555f2fd703689391ac94536544e6c6f3e820ae84cf802a648e53093ada645c0fa7c4b6c5d7b589cdac873cf1667efc6e82521320b4cc33a04abd4c219706577e771a9a77941bbfca8a93d1fe4f99132ce9df570871421c08a8a8692c452fa8a67803420466cb8e40/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/76743647dc17a70692423388d237236efe380b143927833a555f2fd703689391ac94536544e6c6f3e820ae84cf802a648e53093ada645c0fa7c4b6c5d7b589cdac873cf1667efc6e82521320b4cc33a04abd4c219706577e771a9a77941bbfca8a93d1fe4f99132ce9df570871421c08a8a8692c452fa8a67803420466cb8e40/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/bd/d3/bdd34eb241bf3d74098aaf29529a2f02/bdd34eb241bf3d74098aaf29529a2f02.jpg" group-title="HOLLYWOOD MOVIES",AVENGERS: INFINITY WAR (2018)
-https://evif.onthecloudcdn.com/_v10/b0ce1c87e9c31e0ade1085020534d31894680d9103d76455b5845400b5c06f8a38c1d17033648b00110661e756bb1ac9b4361666edac7763ece09bb950055f8991255405318c754f2ce028a8a9238a82f9ac74b6166121909a0d43ae71644c02d39e48df0d840323ffb8248a5b5ac6b6ad5a7ae2a7f63fce3fc992b8be783ab3/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/b0ce1c87e9c31e0ade1085020534d31894680d9103d76455b5845400b5c06f8a38c1d17033648b00110661e756bb1ac9b4361666edac7763ece09bb950055f8991255405318c754f2ce028a8a9238a82f9ac74b6166121909a0d43ae71644c02d39e48df0d840323ffb8248a5b5ac6b6ad5a7ae2a7f63fce3fc992b8be783ab3/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/d5/c9/d5c931df6080a426ed559d24896d5349/d5c931df6080a426ed559d24896d5349.jpg" group-title="HOLLYWOOD MOVIES",AVENGERS: ENDGAME (2019)
-https://evif.onthecloudcdn.com/_v10/81b16d8ff2956d3be046729121df2350c2fc12653e68857e2d5c18572afdca2b0ee07bcafb1eb90d55230f164691180ecf90e2e25e8af40e1b53438f22e06626742e1d806f5c283f8206515823e9e444ba9adeeff8961b670e99d950073a937e0cc77d859e8124581bb9fc369f43d629cfb514e251541deef0bc60f8cd33845b/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/81b16d8ff2956d3be046729121df2350c2fc12653e68857e2d5c18572afdca2b0ee07bcafb1eb90d55230f164691180ecf90e2e25e8af40e1b53438f22e06626742e1d806f5c283f8206515823e9e444ba9adeeff8961b670e99d950073a937e0cc77d859e8124581bb9fc369f43d629cfb514e251541deef0bc60f8cd33845b/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/76/e8/76e8bc195d6dff37d1fbbf815ce467e9/76e8bc195d6dff37d1fbbf815ce467e9.jpg" group-title="HOLLYWOOD MOVIES",AVENGERS: AGE OF ULTRON (2015)
-https://evif.onthecloudcdn.com/_v10/2d75dfd5b08293ab9e81ae98916ccc15d184e15c4999698a0915e21e5fa94c48e38267fc7ec3bf8e64e8c92fb1f90a050cad47192d882d4a4f3202009841d84fc765618e95a2970fbfbb15e134bfa6395e6cbe51c9b332d9b4bf21b4b75928e31923e7901a9b273f75576b8badbec8550d53421d901d1144ae49a847c0cb9f11/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/2d75dfd5b08293ab9e81ae98916ccc15d184e15c4999698a0915e21e5fa94c48e38267fc7ec3bf8e64e8c92fb1f90a050cad47192d882d4a4f3202009841d84fc765618e95a2970fbfbb15e134bfa6395e6cbe51c9b332d9b4bf21b4b75928e31923e7901a9b273f75576b8badbec8550d53421d901d1144ae49a847c0cb9f11/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/a3/1f/a31f7aaec85f294fa52c62896e590e6d/a31f7aaec85f294fa52c62896e590e6d.jpg" group-title="HOLLYWOOD MOVIES",THE CABIN IN THE WOODS (2012)
-https://evif.onthecloudcdn.com/_v10/c38aee891b519175cacad15374b9c274f4518cb02a1cba7cccd173488a91ea4cf691a8ed83d6742a3ee7a71bfa993a948d455df3c8fd33302d95055764d28bcb834e6286d9c78dba222032b9f4ca9f21eb32bc23d925dcd3e1db4d4c99a289f24804272f9867b2bfcd485be63dcc043b38bc1a25076eab4e0874abd6eb2604e1/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/c38aee891b519175cacad15374b9c274f4518cb02a1cba7cccd173488a91ea4cf691a8ed83d6742a3ee7a71bfa993a948d455df3c8fd33302d95055764d28bcb834e6286d9c78dba222032b9f4ca9f21eb32bc23d925dcd3e1db4d4c99a289f24804272f9867b2bfcd485be63dcc043b38bc1a25076eab4e0874abd6eb2604e1/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/22/89/2289d31a01b60e9285480f0a21ae7ad8/2289d31a01b60e9285480f0a21ae7ad8.jpg" group-title="HOLLYWOOD MOVIES",THE CONJURING (2013)
-https://evif.onthecloudcdn.com/_v10/a0159350b45268f9e846fbb5427fedd628b53f5db2d91d61c063c111a51b90b6fe1de13c4808482a04c7192980d82d13b56b1be30386576d1db913196d8174ef9a6a8a9eadec6de8c723d85355d1a4567abc60c71f664d0cf32771d5ba6a3c07d44456eec6026a348934d3c1802dfe8645a57ac310a9d488860dcda87de8118e/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/a0159350b45268f9e846fbb5427fedd628b53f5db2d91d61c063c111a51b90b6fe1de13c4808482a04c7192980d82d13b56b1be30386576d1db913196d8174ef9a6a8a9eadec6de8c723d85355d1a4567abc60c71f664d0cf32771d5ba6a3c07d44456eec6026a348934d3c1802dfe8645a57ac310a9d488860dcda87de8118e/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/72/20/7220ddd166796647cf5fae034925c6dc/7220ddd166796647cf5fae034925c6dc.jpg" group-title="HOLLYWOOD MOVIES",THE CONJURING 2 (2016)
-https://evif.onthecloudcdn.com/_v10/a6ecd1669722b9fe99e6bb827d2fd4d22b4af902eb0ee1e968f2b852696791c91d153c5ca865f71b294bb2cae1f65a1434e81d9261361ac48a8de8138a35dc8bf54366a11a1afb3a9cb839ace4144c1de5819de247e97e02a7605013b6b23a1c8c9bb1b2a2327849adf19d825fdbdb270ff02de026c7f9c05c499bf98cac3171/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/a6ecd1669722b9fe99e6bb827d2fd4d22b4af902eb0ee1e968f2b852696791c91d153c5ca865f71b294bb2cae1f65a1434e81d9261361ac48a8de8138a35dc8bf54366a11a1afb3a9cb839ace4144c1de5819de247e97e02a7605013b6b23a1c8c9bb1b2a2327849adf19d825fdbdb270ff02de026c7f9c05c499bf98cac3171/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/69/da/69daeeaabc72389010331464e8cda51e/69daeeaabc72389010331464e8cda51e.jpg" group-title="HOLLYWOOD MOVIES",THE CONJURING 3  (2021)
-https://evif.onthecloudcdn.com/_v10/a6c06c4848b52caf8055a25099dad623b98c1e3fdee367b15b84df4b8961f370b65fd753f87bf043b550d761aa386149419de2364a16b62d937bf334238af7472fa6f144145174c0900e6346747a00fc319988d387859aa896ef5b7b9b0c53db1c769357a85784e9d0bf7501a8e524bc8413d2f7278c02de5732555a8fe9af39/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/a6c06c4848b52caf8055a25099dad623b98c1e3fdee367b15b84df4b8961f370b65fd753f87bf043b550d761aa386149419de2364a16b62d937bf334238af7472fa6f144145174c0900e6346747a00fc319988d387859aa896ef5b7b9b0c53db1c769357a85784e9d0bf7501a8e524bc8413d2f7278c02de5732555a8fe9af39/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/6c/cb/6ccba52a1413a613535113b7ae4e1c0d/6ccba52a1413a613535113b7ae4e1c0d.jpg" group-title="HOLLYWOOD MOVIES",THE NUN (2018)
-https://evif.onthecloudcdn.com/_v10/f8ead2a2f9f9156037d4c2396fd836afed4267bc093e5393ffd7df19d20cf6540ade524706ea1f932e1b6a4f96ba6783304d61aa15d1dfa17c61e87b4ea7bd052da853f4bc4caa94ca0dec911269f75864696c7388d6a4469df3fb52db0b6f052ef90e3abd59bd1c5c862f85e47975b487770cb3c3c38d2f6f74ce1899c1b742/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/f8ead2a2f9f9156037d4c2396fd836afed4267bc093e5393ffd7df19d20cf6540ade524706ea1f932e1b6a4f96ba6783304d61aa15d1dfa17c61e87b4ea7bd052da853f4bc4caa94ca0dec911269f75864696c7388d6a4469df3fb52db0b6f052ef90e3abd59bd1c5c862f85e47975b487770cb3c3c38d2f6f74ce1899c1b742/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/37/ed/37ed783936f9f7d097dabb434c7c6184/37ed783936f9f7d097dabb434c7c6184.jpg" group-title="HOLLYWOOD MOVIES",THE GANGSTER, THE COP, THE DEVIL (2019)
-https://evif.onthecloudcdn.com/_v10/1cd598f3be95cf21bb31808c030d0c6c044ae55849d560daeff414a15946f0c75abdb64560c944b4fb5f4f67cdc8b5de2c964520963015f214fc6145b9fb6264a0fa4178af3f39f4027e289493824127a3fec9fb14b0a0dca85040cf7dff118491af3355adc8c38dbdada0a19ffee7cf68b94ec3e47c1a475f77b747417bd778/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/1cd598f3be95cf21bb31808c030d0c6c044ae55849d560daeff414a15946f0c75abdb64560c944b4fb5f4f67cdc8b5de2c964520963015f214fc6145b9fb6264a0fa4178af3f39f4027e289493824127a3fec9fb14b0a0dca85040cf7dff118491af3355adc8c38dbdada0a19ffee7cf68b94ec3e47c1a475f77b747417bd778/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/66/15/66152222709d325f71073bbacef7540b/66152222709d325f71073bbacef7540b.jpg" group-title="HOLLYWOOD MOVIES",SPIRIT - BECOMING THE WORLD'S BEST BARTENDER (2023)
-https://evif.onthecloudcdn.com/_v10/9373723a3ae8e7eda7ed5268b5ffcce6f578a89d91f89156f6011e6eec1931404958cc191d6cb7ecd2c38bab0dc2cd5f14f371f8dcf127c166d62a801acfdb4950e7a6a3be2e063a84b3f6b92b47694416779edb0460338d579108904e92a4da0d21706ca19106996b9ae1472138b144718026017c2c896c1fad898fbb682b27/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/9373723a3ae8e7eda7ed5268b5ffcce6f578a89d91f89156f6011e6eec1931404958cc191d6cb7ecd2c38bab0dc2cd5f14f371f8dcf127c166d62a801acfdb4950e7a6a3be2e063a84b3f6b92b47694416779edb0460338d579108904e92a4da0d21706ca19106996b9ae1472138b144718026017c2c896c1fad898fbb682b27/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/06/d5/06d5a29c758764d7725c2b4b015980bc/06d5a29c758764d7725c2b4b015980bc.jpg" group-title="HOLLYWOOD MOVIES",THE LORD OF THE RINGS: THE RETURN OF THE KING (2003)
-https://evif.onthecloudcdn.com/_v10/a43f6d6a892fb8881377afc2ed5ce554e7e6cb0b33dc90f64cc3189598da6dba7b88c8f3939a27e46e5fa2b4dd48cd6ddd51fbe058d3a97d3d4a4fe2e46db27b504d3dbac0cbef3004fd25bd95fffca6b9e626d4059e6cb3ac8cd3df465c73d4a004a6bb87e250bdfaa94c2aaa3daf2f23744800d83e779191f6ce48b5e21890/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/a43f6d6a892fb8881377afc2ed5ce554e7e6cb0b33dc90f64cc3189598da6dba7b88c8f3939a27e46e5fa2b4dd48cd6ddd51fbe058d3a97d3d4a4fe2e46db27b504d3dbac0cbef3004fd25bd95fffca6b9e626d4059e6cb3ac8cd3df465c73d4a004a6bb87e250bdfaa94c2aaa3daf2f23744800d83e779191f6ce48b5e21890/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/b0/ce/b0ceae8aabc286d66f5d67988afd2d80/b0ceae8aabc286d66f5d67988afd2d80.jpg" group-title="HOLLYWOOD MOVIES",THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING (2001)
-https://evif.onthecloudcdn.com/_v10/cd08488b81d96098ee676b504200b5788d03557d46c65f09c1fdbdb22a43f58c142babd7af6dbc49ab483a31681dd1bf18a55ab3019097ed3f274ede62fd7fec2620d8859de23afe918a7dd14b333a7eda5c863dc78d1274259f0f40fe3f2cceedee32ce34d7b0966c4bfb54e3273662337b871ac590b8d018422371a12d888e/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/cd08488b81d96098ee676b504200b5788d03557d46c65f09c1fdbdb22a43f58c142babd7af6dbc49ab483a31681dd1bf18a55ab3019097ed3f274ede62fd7fec2620d8859de23afe918a7dd14b333a7eda5c863dc78d1274259f0f40fe3f2cceedee32ce34d7b0966c4bfb54e3273662337b871ac590b8d018422371a12d888e/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/8a/fb/8afbaca68aee0166c5f8038ecd2520c1/8afbaca68aee0166c5f8038ecd2520c1.jpg" group-title="HOLLYWOOD MOVIES",THE LORD OF THE RINGS: THE TWO TOWERS (2002)
-https://evif.onthecloudcdn.com/_v10/3074fa22b94f9773ce6b8de38e13ef1791e414e27e7c081e3b8e8f7a9fb26a7a4b5c0405931994d6f408111a86be9b826ff15fdb4fbd8060d5b5e187fb575caedeef5f98cc6b119ec750bc3797813b804130ff3ef106cc270159849f2d173ad40e3aa5eeee4ac95b658c13c8cefe174c6a0bf295e66e120ac4d5af74eb154e27/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/3074fa22b94f9773ce6b8de38e13ef1791e414e27e7c081e3b8e8f7a9fb26a7a4b5c0405931994d6f408111a86be9b826ff15fdb4fbd8060d5b5e187fb575caedeef5f98cc6b119ec750bc3797813b804130ff3ef106cc270159849f2d173ad40e3aa5eeee4ac95b658c13c8cefe174c6a0bf295e66e120ac4d5af74eb154e27/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/e5/10/e510db60b0ea7b6584ee972b466cc212/e510db60b0ea7b6584ee972b466cc212.jpg" group-title="HOLLYWOOD MOVIES",THE MATRIX (1999)
-https://evif.onthecloudcdn.com/_v10/1597d42e62858194fdee7fec2de1ef4bf6a81519b5dc7a94d1fb4eeb2f65a75b2047f9de829f6251c75233cf87ade8bc41c8aa98fd47bb167b054662615dba923d27a38377ca0a5804c910da608e5e637758bf0a6d39239cc7ebeb6846e0632e9764fda476db846f57ebc7354aceb85985059320b82a5244a01ada81f20e4382/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/1597d42e62858194fdee7fec2de1ef4bf6a81519b5dc7a94d1fb4eeb2f65a75b2047f9de829f6251c75233cf87ade8bc41c8aa98fd47bb167b054662615dba923d27a38377ca0a5804c910da608e5e637758bf0a6d39239cc7ebeb6846e0632e9764fda476db846f57ebc7354aceb85985059320b82a5244a01ada81f20e4382/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/75/9b/759bc0b7c405e32036a4de91262c73f1/759bc0b7c405e32036a4de91262c73f1.jpg" group-title="HOLLYWOOD MOVIES",THE MATRIX REVOLUTIONS (2003)
-https://evif.onthecloudcdn.com/_v10/cffba776ec2b51680fb1b297013c47d85663c60f233b9eb602a9e178de912cefe9cfb9eb372ea250a19ab0b27a388af005cda4c16a344cd42a79b81b82a20db8c725681e3375c67b85e4217b9e1924fbcc0121caecf0ccbf9e9adf6ce8b3c464aee955709ed72a6e254e656ab1f6b4336c1a8a8c7a1b5026a8c0ce26263dc26d/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/cffba776ec2b51680fb1b297013c47d85663c60f233b9eb602a9e178de912cefe9cfb9eb372ea250a19ab0b27a388af005cda4c16a344cd42a79b81b82a20db8c725681e3375c67b85e4217b9e1924fbcc0121caecf0ccbf9e9adf6ce8b3c464aee955709ed72a6e254e656ab1f6b4336c1a8a8c7a1b5026a8c0ce26263dc26d/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/1b/5b/1b5b341d7b53f796beb50b84dfee9f69/1b5b341d7b53f796beb50b84dfee9f69.jpg" group-title="HOLLYWOOD MOVIES",THE MATRIX RESURRECTIONS (2021)
-https://evif.onthecloudcdn.com/_v10/38ffdb7cb1a676e7606b9eb8321fa768d3481a4d9b2c915b70ce0d96e20d7ecf82abc7ae35bfa4aad3dfb31163ad065d90110dd0f65b25b80d9ff5645566e6dcb902a0054256023c8dcb9bf3d93b42204f742261a287a8e7498b2c45381267a6d25ff81ecf44048a02f34d8965b9646f8fd7c1f64da34e887b9d73401c402999/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/38ffdb7cb1a676e7606b9eb8321fa768d3481a4d9b2c915b70ce0d96e20d7ecf82abc7ae35bfa4aad3dfb31163ad065d90110dd0f65b25b80d9ff5645566e6dcb902a0054256023c8dcb9bf3d93b42204f742261a287a8e7498b2c45381267a6d25ff81ecf44048a02f34d8965b9646f8fd7c1f64da34e887b9d73401c402999/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/01/ee/01ee3400416c73ba2e5a54055c3f92cd/01ee3400416c73ba2e5a54055c3f92cd.jpg" group-title="HOLLYWOOD MOVIES",WORLD WAR Z (2013)
-https://evif.onthecloudcdn.com/_v10/83c5912f06455d5f0db3039de32af47877a31eb55ad0f5ae7681526bc63181b0b1cca4a1eac57526d2f53c4961c5fa1b2ec6b52edcafe1b073301d6d2ad956f16e8cbc9e763797d3876833f6d03910b4680f5dd3c979f3e8493cc06d21a4863f8821ccb690561cad82a4d7a47f2c9e2f23de87707a8c92975af1ee5f54c3b9f1/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/83c5912f06455d5f0db3039de32af47877a31eb55ad0f5ae7681526bc63181b0b1cca4a1eac57526d2f53c4961c5fa1b2ec6b52edcafe1b073301d6d2ad956f16e8cbc9e763797d3876833f6d03910b4680f5dd3c979f3e8493cc06d21a4863f8821ccb690561cad82a4d7a47f2c9e2f23de87707a8c92975af1ee5f54c3b9f1/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/4a/02/4a02a02dee3adbb491e9f9b45c47caeb/4a02a02dee3adbb491e9f9b45c47caeb.jpg" group-title="HOLLYWOOD MOVIES",ZOMBIE FIGHT CLUB (2014)
-https://evif.onthecloudcdn.com/_v10/364ccae8c6929156b09cd0c7d8be0c2c4fb4b46a55e0f35e071a78b26275c71cd49db3f964dfb53a9f3bcce409cf43d55c83ea43b7a7495aaa9e1f489b2fa0338b45bcbab9738dbf9b6590d8ba77c20fbf6975f59f066e56ff29158be039289bfc7f9894ed51de0dda3a8adacaaa316db34456ae247b4f40cfc4e9a55bd508cd/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/364ccae8c6929156b09cd0c7d8be0c2c4fb4b46a55e0f35e071a78b26275c71cd49db3f964dfb53a9f3bcce409cf43d55c83ea43b7a7495aaa9e1f489b2fa0338b45bcbab9738dbf9b6590d8ba77c20fbf6975f59f066e56ff29158be039289bfc7f9894ed51de0dda3a8adacaaa316db34456ae247b4f40cfc4e9a55bd508cd/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/56/a6/56a681dd52c63c369e6555cc7d860903/56a681dd52c63c369e6555cc7d860903.jpg" group-title="HOLLYWOOD MOVIES",ALIEN (1979)
-https://evif.onthecloudcdn.com/_v10/e2bc5a4b1ea920181241c5c3178b7fe0063ac1a8f2b72b1e01535bc63c59ad6261b71056684a594f4435c5d480133367ef34907038be425c50930bed803b65b8821f08452cfcf52568bb00cf62aeda7eaa948950740e5695022da2f60c438122dd0ff952e21c0b05edf97da051c750da89c29d445cea86b81703fd598440f710/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/e2bc5a4b1ea920181241c5c3178b7fe0063ac1a8f2b72b1e01535bc63c59ad6261b71056684a594f4435c5d480133367ef34907038be425c50930bed803b65b8821f08452cfcf52568bb00cf62aeda7eaa948950740e5695022da2f60c438122dd0ff952e21c0b05edf97da051c750da89c29d445cea86b81703fd598440f710/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/c2/19/c219ff71b25e6eee3d5cc65c3a1a4192/c219ff71b25e6eee3d5cc65c3a1a4192.jpg" group-title="HOLLYWOOD MOVIES",ALIEN OUTPOST (2014)
-https://evif.onthecloudcdn.com/_v10/2fe7235d85bceb57984d28b1f890856268582f7424747ec42a0a37e44a209e5fb14a31831cc1bcf718b1078c8e4a8948a69e9cddacbb1901b5dfe4a38e61be1e1e91dd277cf5c63145447e0c8b2bd2a79592ae07bc07bf3a6636310290434aa7c84fb1edd2fcae0588b8e0a614e268a67074805d807dd6350a7d874f2cb066a9/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/2fe7235d85bceb57984d28b1f890856268582f7424747ec42a0a37e44a209e5fb14a31831cc1bcf718b1078c8e4a8948a69e9cddacbb1901b5dfe4a38e61be1e1e91dd277cf5c63145447e0c8b2bd2a79592ae07bc07bf3a6636310290434aa7c84fb1edd2fcae0588b8e0a614e268a67074805d807dd6350a7d874f2cb066a9/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/e3/b1/e3b1e81af52f29bf22d15fa159cd988d/e3b1e81af52f29bf22d15fa159cd988d.jpg" group-title="HOLLYWOOD MOVIES",ALIEN 3 (1992)
-https://evif.onthecloudcdn.com/_v10/2411b18ae995f3dc37d5cc10b728fcae2a1ee1a6b323f5ed61b4d341849f23a406f1bee8db3d348b22e1520ceeca436155dbe58dae9f90e73452f04c965b521f227e70d143ebdb79f74b8f27c41c6c06b711a7b5c97e643deb45ee26fe462d1919ce6c144984138ec2548c5bd325c572368d0be76819a7f1a24bddf0ea74d189/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/2411b18ae995f3dc37d5cc10b728fcae2a1ee1a6b323f5ed61b4d341849f23a406f1bee8db3d348b22e1520ceeca436155dbe58dae9f90e73452f04c965b521f227e70d143ebdb79f74b8f27c41c6c06b711a7b5c97e643deb45ee26fe462d1919ce6c144984138ec2548c5bd325c572368d0be76819a7f1a24bddf0ea74d189/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/ba/03/ba038ad7d0b16445ea4128cd598edbb9/ba038ad7d0b16445ea4128cd598edbb9.jpg" group-title="HOLLYWOOD MOVIES",ALIEN RESURRECTION (1997)
-https://evif.onthecloudcdn.com/_v10/60effa7983ad82fd4790dbfe22a62377af67b18dce76723831e45a383ad59b5eb5ea644386ac0c6e3a9781fdd26264dcf7a02965a165ffacd1268bdc82bd8196f155a00f3e7920d69fc4a271ee673c4cb4cc1fe5ab06d50af89f78ff48f90cc0d32f0144c527d3f94930005d28b54fcba4ea6889f4e72bc643184ee674edba3b/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/60effa7983ad82fd4790dbfe22a62377af67b18dce76723831e45a383ad59b5eb5ea644386ac0c6e3a9781fdd26264dcf7a02965a165ffacd1268bdc82bd8196f155a00f3e7920d69fc4a271ee673c4cb4cc1fe5ab06d50af89f78ff48f90cc0d32f0144c527d3f94930005d28b54fcba4ea6889f4e72bc643184ee674edba3b/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/99/c4/99c42c2520ba2a4dfbb90cc67399be0c/99c42c2520ba2a4dfbb90cc67399be0c.jpg" group-title="HOLLYWOOD MOVIES",ALIEN: COVENANT (2017)
-https://evif.onthecloudcdn.com/_v10/9d248b8f830dea93096643d19f9a469d789daedb20608b406acbaeabadcecd4fd2cdbe2a3b5f38062be55a39164792ca246df979ba4ebf4f3fbf9fce1e150f5fea1f1d638c9bde519897095471933215232ac3323e7e2da002efa1803675524686c6da8a22c33975acc6e05194d04609b07687a271035fbcb82c4e05e4b9260f/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/9d248b8f830dea93096643d19f9a469d789daedb20608b406acbaeabadcecd4fd2cdbe2a3b5f38062be55a39164792ca246df979ba4ebf4f3fbf9fce1e150f5fea1f1d638c9bde519897095471933215232ac3323e7e2da002efa1803675524686c6da8a22c33975acc6e05194d04609b07687a271035fbcb82c4e05e4b9260f/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/dc/c3/dcc379c6f02a049a2c008d9cf5b29ed8/dcc379c6f02a049a2c008d9cf5b29ed8.jpg" group-title="HOLLYWOOD MOVIES",ALIEN PREDATOR (2018)
-https://evif.onthecloudcdn.com/_v10/20043754e2ae86a4ec48ed09b3765cb8521cf485b44c161ebda4c9ff455ce857c3324e686bc3cd5ab3e3ea0fc976decf502a62b189b5836fc306f1ea9463c2e4e138379f03cc1209f7a625f5fa85068edad51fee048f8337fde8645285b3a81f574062cc5c46a5578117442d654fc2acecfe9c33f8ac8d561b455931d37434b7/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/20043754e2ae86a4ec48ed09b3765cb8521cf485b44c161ebda4c9ff455ce857c3324e686bc3cd5ab3e3ea0fc976decf502a62b189b5836fc306f1ea9463c2e4e138379f03cc1209f7a625f5fa85068edad51fee048f8337fde8645285b3a81f574062cc5c46a5578117442d654fc2acecfe9c33f8ac8d561b455931d37434b7/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/e3/88/e388b7a4c3c7d137d11b3c81c88d14b1/e388b7a4c3c7d137d11b3c81c88d14b1.jpg" group-title="HOLLYWOOD MOVIES",AVP: ALIEN VS. PREDATOR (2004)
-https://evif.onthecloudcdn.com/_v10/e6fa200a81971a7ec3e42198026f6cde522fa434362f97d04ebc5b11e3ce130d159a9e6e4cc47c69eae8e2e1f8d30c4078c48a303dc88c93906f0ef6d78370cc384f0aeb0e74ed30f0b70b306e3c5a278d3752944d1204bbeb384c4a1f3d4860fe3e0db9816553835a41dae7968f9cd3e9577965af924cbaf0b67f589dc09d0f/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/e6fa200a81971a7ec3e42198026f6cde522fa434362f97d04ebc5b11e3ce130d159a9e6e4cc47c69eae8e2e1f8d30c4078c48a303dc88c93906f0ef6d78370cc384f0aeb0e74ed30f0b70b306e3c5a278d3752944d1204bbeb384c4a1f3d4860fe3e0db9816553835a41dae7968f9cd3e9577965af924cbaf0b67f589dc09d0f/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/28/c0/28c098d4c65f4794f7ab512a64b1f56b/28c098d4c65f4794f7ab512a64b1f56b.jpg" group-title="HOLLYWOOD MOVIES",ALIEN ABDUCTION (2014)
-https://evif.onthecloudcdn.com/_v10/8559805ea98c719a80057c999ed5a144d10e49ae3f8f47372f6543916f264602738a7f971c50e552e085078acdb1caa74513d080116c487c445712c5a03ad937597b7cd9ab3d27c8c7a8a1e216968c89b255ed80c6977344834a8995e57f6e243dac7337bc35b486f5e877589440110c2ffe79d95cb3451f9b905e65711114a6/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/8559805ea98c719a80057c999ed5a144d10e49ae3f8f47372f6543916f264602738a7f971c50e552e085078acdb1caa74513d080116c487c445712c5a03ad937597b7cd9ab3d27c8c7a8a1e216968c89b255ed80c6977344834a8995e57f6e243dac7337bc35b486f5e877589440110c2ffe79d95cb3451f9b905e65711114a6/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/9b/f3/9bf34f134e57b407a7c81a270d6140b2/9bf34f134e57b407a7c81a270d6140b2.jpg" group-title="HOLLYWOOD MOVIES",ALIEN DOMICILE (2017)
-https://evif.onthecloudcdn.com/_v10/c83f4e3dc2704d9b8cbfb71269737a5d057dca169ef80eb2c7d0da41a9cc8cf1f010e1abecb9fab9e0adcf88363f09e3f8642e6f883765cc5c7126dacfbc2e8587b24d46a4a992279f63a038abb1ff6c8eafb4b488d2eb0c505c1f5fbea4af6f32b2ac63e26fd7316248e73e9425fe799055970a2d29972e814b38668761ba0b/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/c83f4e3dc2704d9b8cbfb71269737a5d057dca169ef80eb2c7d0da41a9cc8cf1f010e1abecb9fab9e0adcf88363f09e3f8642e6f883765cc5c7126dacfbc2e8587b24d46a4a992279f63a038abb1ff6c8eafb4b488d2eb0c505c1f5fbea4af6f32b2ac63e26fd7316248e73e9425fe799055970a2d29972e814b38668761ba0b/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/24/0a/240a287b29f5b284765ea8fc01306a6b/240a287b29f5b284765ea8fc01306a6b.jpg" group-title="HOLLYWOOD MOVIES",ALIEN 2: ON EARTH (1980)
-https://evif.onthecloudcdn.com/_v10/9f39c4d43eb08daf2db8a0f0946aace642d1ca162e21f48f54c75fb425171c43f636334d7b4d10376518d652717e224e34fcce1c77aa18ae6a31432e9d0c089dfaeb4fce076a0c0fb287b0469555ff92f4154690819ecb4df1c27e32d94e448b55c696c7ecbffa78b447780b0738fad7b58491e000cea84e69943b75c3d630e2/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/9f39c4d43eb08daf2db8a0f0946aace642d1ca162e21f48f54c75fb425171c43f636334d7b4d10376518d652717e224e34fcce1c77aa18ae6a31432e9d0c089dfaeb4fce076a0c0fb287b0469555ff92f4154690819ecb4df1c27e32d94e448b55c696c7ecbffa78b447780b0738fad7b58491e000cea84e69943b75c3d630e2/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/ee/26/ee266cf57ed835e809b5aa9ebdf74ba5/ee266cf57ed835e809b5aa9ebdf74ba5.jpg" group-title="HOLLYWOOD MOVIES",WRONG TURN 1 (2003)
-https://evif.onthecloudcdn.com/_v10/d49dadf09ab0c369ddd6d0953be254932d626bd098acffa178671349070e7b972fc23a87e07e366e25096d9e2bafac81b72457cc36a3b89125460f784523d8906a6bed86d244483ebbc12f1efdcfdda0add095583dcd7451ffcde4f59734ab752da483ebfcbe5f42925cf61571e54e402e8570a158dd8c6a248c2c8e9e15996a/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/d49dadf09ab0c369ddd6d0953be254932d626bd098acffa178671349070e7b972fc23a87e07e366e25096d9e2bafac81b72457cc36a3b89125460f784523d8906a6bed86d244483ebbc12f1efdcfdda0add095583dcd7451ffcde4f59734ab752da483ebfcbe5f42925cf61571e54e402e8570a158dd8c6a248c2c8e9e15996a/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/39/97/39975f239a7ff7a3f94f705c31547c41/39975f239a7ff7a3f94f705c31547c41.jpg" group-title="HOLLYWOOD MOVIES",WRONG TURN 2 (2007)
-https://evif.onthecloudcdn.com/_v10/d7e99980bfa3583f131a07fc6676cc4b596bcee9514e67c7125520d1db7731ed620a1da154b14e62e8c562008667dfc85b318e2f1ec2f85f6ab4e64966e16b1e88854419de521b87678d4d5c562da47f8214e0b4c3aa5cea22690711834b689d6c9eb9a3725d649c374bf0a320dc6af76b2aebecc7c01dfa00ba4fd4ebbbf427/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/d7e99980bfa3583f131a07fc6676cc4b596bcee9514e67c7125520d1db7731ed620a1da154b14e62e8c562008667dfc85b318e2f1ec2f85f6ab4e64966e16b1e88854419de521b87678d4d5c562da47f8214e0b4c3aa5cea22690711834b689d6c9eb9a3725d649c374bf0a320dc6af76b2aebecc7c01dfa00ba4fd4ebbbf427/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/ce/94/ce94707ba5d4401639eb3f1a939eb5c8/ce94707ba5d4401639eb3f1a939eb5c8.jpg" group-title="HOLLYWOOD MOVIES",WRONG TURN 3 (2009)
-https://evif.onthecloudcdn.com/_v10/1567f33d0cd0379aaa8ba6a76481819d3ce084def7acc349b17d84b0259653e058b7e62b75b7110ca712934190b1d40799299bc037ce73b768c79a7c8d67a22729677a57c9dba15f9efa0c58567a0b9079279d21204557a4a6ac07b7b33ff124a97f9816884ba2c2bfd07871bf7c74db88857ec6456e08dde016e9d404373001/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/1567f33d0cd0379aaa8ba6a76481819d3ce084def7acc349b17d84b0259653e058b7e62b75b7110ca712934190b1d40799299bc037ce73b768c79a7c8d67a22729677a57c9dba15f9efa0c58567a0b9079279d21204557a4a6ac07b7b33ff124a97f9816884ba2c2bfd07871bf7c74db88857ec6456e08dde016e9d404373001/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/cf/e6/cfe6bf50550a95950fba620a7413f483/cfe6bf50550a95950fba620a7413f483.jpg" group-title="HOLLYWOOD MOVIES",WRONG TURN 4 (2011)
-https://evif.onthecloudcdn.com/_v10/c3fe52cb88ad0da8c4dd0a88221d247834dd434e3e7f72102eb22dccd43b2e13487fa0763de1b2d1f0fde043362182cc47e18082d4865d8f39d1b6ac5dce58a27d01e1f42e63c053be81cae8719e943c9725daeb713e6bb9b60cc4f285db5ace1a430088fad979f394095416bb48fb976426532b950ec0acf9b4c69eaacbb155/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/c3fe52cb88ad0da8c4dd0a88221d247834dd434e3e7f72102eb22dccd43b2e13487fa0763de1b2d1f0fde043362182cc47e18082d4865d8f39d1b6ac5dce58a27d01e1f42e63c053be81cae8719e943c9725daeb713e6bb9b60cc4f285db5ace1a430088fad979f394095416bb48fb976426532b950ec0acf9b4c69eaacbb155/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/6e/e4/6ee4bb02a217d2e5cfb8d4755121c222/6ee4bb02a217d2e5cfb8d4755121c222.jpg" group-title="HOLLYWOOD MOVIES",WRONG TURN 5 (2012)
-https://evif.onthecloudcdn.com/_v10/dbc0f0d5e0241a59f608013abb4f9fde3c7d1d8bfa6b20b9c0b7ea8b4c70faba17e5e7b5c493bd03197fd8d1c03bb10bfe00db1e50cb06fca837f3a2f3fbb22879e846471f2a9a4cfc59c9498312e9370c774f684cf4e4dff90a079cde0cdb36a499a990ae9de7615d6dca99871a8394e52f8c7ced21432f158cbd47f0fa79b5/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/dbc0f0d5e0241a59f608013abb4f9fde3c7d1d8bfa6b20b9c0b7ea8b4c70faba17e5e7b5c493bd03197fd8d1c03bb10bfe00db1e50cb06fca837f3a2f3fbb22879e846471f2a9a4cfc59c9498312e9370c774f684cf4e4dff90a079cde0cdb36a499a990ae9de7615d6dca99871a8394e52f8c7ced21432f158cbd47f0fa79b5/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/87/18/87187beff707cc25e6cd85ecd385f130/87187beff707cc25e6cd85ecd385f130.jpg" group-title="HOLLYWOOD MOVIES",WRONG TURN 6 (2014)
-https://evif.onthecloudcdn.com/_v10/79cd798ba7c3f3dfab5e1907b0005f5b8691dd319245f6b9ca1e0046dccdb44c6335166268253ee0cdd3b71abfc77e9d93f25026e818779e1bc6549b229b5298ee2b7692721e83987bd6a2578a9ea0e1e0cdaf11e1eb4865ee2a43785b6cd8acc83d4465cb647d41c70d6984436c17693deb2dda44afca4300ad5d879249b936/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/79cd798ba7c3f3dfab5e1907b0005f5b8691dd319245f6b9ca1e0046dccdb44c6335166268253ee0cdd3b71abfc77e9d93f25026e818779e1bc6549b229b5298ee2b7692721e83987bd6a2578a9ea0e1e0cdaf11e1eb4865ee2a43785b6cd8acc83d4465cb647d41c70d6984436c17693deb2dda44afca4300ad5d879249b936/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/cb/2f/cb2f406922794731d6ebb25fc06b188b/cb2f406922794731d6ebb25fc06b188b.jpg" group-title="HOLLYWOOD MOVIES",WRONG TURN 7 (2021)
-https://evif.onthecloudcdn.com/_v10/0eaf5916d122ca8702947223a5ea2ba17d90c6ab03914fc3a752947066a2de75c45902cf27f19c2de1e5caaa4377954fa3c9b7dc2706b5d698e6326aee1122505dcdfd6204e01f5026c290178deb59ad6219820fb0ba5609725e89b7630c0f62bf98626bc1e29235408b9e18887d3ed878c58cdb83b34529c0826f51a5bd3eff/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/0eaf5916d122ca8702947223a5ea2ba17d90c6ab03914fc3a752947066a2de75c45902cf27f19c2de1e5caaa4377954fa3c9b7dc2706b5d698e6326aee1122505dcdfd6204e01f5026c290178deb59ad6219820fb0ba5609725e89b7630c0f62bf98626bc1e29235408b9e18887d3ed878c58cdb83b34529c0826f51a5bd3eff/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/68/62/6862d1dee78161670761d4a18b50e715/6862d1dee78161670761d4a18b50e715.jpg" group-title="HOLLYWOOD MOVIES",WRONG PLACE (2022)
-https://evif.onthecloudcdn.com/_v10/467940fe80c8978046853b3490bbc60ddc105398fd6b57d48327c7055c887002e6515a574f9b46480e15c9da3524604e3f2d157254eaa2c5501827a53b494d2ed681d64121f7b1b926c19eb89e03ae077746d8638eea23b1cff62deb8873c866ff81915ba41e85cd3f7b754197b6f77ae5448403635cf87dad51ff6ffda701c9/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/467940fe80c8978046853b3490bbc60ddc105398fd6b57d48327c7055c887002e6515a574f9b46480e15c9da3524604e3f2d157254eaa2c5501827a53b494d2ed681d64121f7b1b926c19eb89e03ae077746d8638eea23b1cff62deb8873c866ff81915ba41e85cd3f7b754197b6f77ae5448403635cf87dad51ff6ffda701c9/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/71/07/7107b1c2f8741b2d3e12eacd27ffba22/7107b1c2f8741b2d3e12eacd27ffba22.jpg" group-title="HOLLYWOOD MOVIES",HYPNOTIC (2023)
 https://evif.onthecloudcdn.com/_v10/788733746cb839c2c8642fd23dbcf3f693fd81c7893960476bb2eadadae419bc47b805aae70a2030d649f495c3f45f8669759d0c4287d36e130197e8fb1ea510abe92c02d6398169af51afc2bdfa503f5739e5cf17e5c89938ba4e284fa787b045a27f719b5ab45457e65be315ae6ba4458c0021fdb55fb78ecd9cb1761c4e6f/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/05/ab/05ab48f11466a0f57a46ee8df434fcb7/05ab48f11466a0f57a46ee8df434fcb7.jpg" group-title="HOLLYWOOD MOVIES",THE BLACK DEMON (2023)
-https://evif.onthecloudcdn.com/_v10/1a3689f4be7834cf8ac79f22cf5ae3de461c984a68b624bd858d0dd18d5173fbebde69086bdbc8ef3485180a833216fb6628b410b70e84dc5af5b4a3330e438512235f3c3544865f700b49e0445e562b8d0f3d62187b0b7db2f54179d57eb5a36d49936f5c100cdf9e62f479cb13c3699a935bb28c4d121e737f2b6c0385dd8f/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/1a3689f4be7834cf8ac79f22cf5ae3de461c984a68b624bd858d0dd18d5173fbebde69086bdbc8ef3485180a833216fb6628b410b70e84dc5af5b4a3330e438512235f3c3544865f700b49e0445e562b8d0f3d62187b0b7db2f54179d57eb5a36d49936f5c100cdf9e62f479cb13c3699a935bb28c4d121e737f2b6c0385dd8f/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/a9/9b/a99ba7cd6b251e75c6723da994bc02b4/a99ba7cd6b251e75c6723da994bc02b4.jpg" group-title="HOLLYWOOD MOVIES",FAST X (2023)
-https://evif.onthecloudcdn.com/_v10/0828923553299ee108d121ada62762bf4ad674901cae2190a4faaae1e89f8986e27ebc7aa79c17535cd3d89d192d6a996c37828c2dedef8f8c0a83cda1a32f78e1fbf254407e786a81a06f148488924c129f0aba947c72a3806d3dcce824f1d12e7131d46c9782b900f53fa33bbbce54bde850f498c03b8df5f30ef2a749afb02f3b86011a1d80f7a48e746e9f316199/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/0828923553299ee108d121ada62762bf4ad674901cae2190a4faaae1e89f8986e27ebc7aa79c17535cd3d89d192d6a996c37828c2dedef8f8c0a83cda1a32f78e1fbf254407e786a81a06f148488924c129f0aba947c72a3806d3dcce824f1d12e7131d46c9782b900f53fa33bbbce54bde850f498c03b8df5f30ef2a749afb02f3b86011a1d80f7a48e746e9f316199/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/9c/d5/9cd56c00c2b79598f7fba8ba33b2128d/9cd56c00c2b79598f7fba8ba33b2128d.jpg" group-title="HOLLYWOOD MOVIES",EXTRACTION 2 (2023)
-https://evif.onthecloudcdn.com/_v10/626933c67997d21fb7fa76121688bc295074aafc9e175f64f1ac89aba3281d5a837bbb10b319a4e0746d5dc3e8757f30687d1999363d9f37e0c5ca3268d0845167e9a465183074103de230a21cb1a3501e2c050a77e127afa5da84fbd64f28f74bcdc878af89e26e59938ac7ad5dcf29227f3807aa9be1379c42aeea70047a37c7a72a77f2caa59e7b10a6092681feb0/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/626933c67997d21fb7fa76121688bc295074aafc9e175f64f1ac89aba3281d5a837bbb10b319a4e0746d5dc3e8757f30687d1999363d9f37e0c5ca3268d0845167e9a465183074103de230a21cb1a3501e2c050a77e127afa5da84fbd64f28f74bcdc878af89e26e59938ac7ad5dcf29227f3807aa9be1379c42aeea70047a37c7a72a77f2caa59e7b10a6092681feb0/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/7c/8d/7c8dd69a6b0764a54191d2c32c63d281/7c8dd69a6b0764a54191d2c32c63d281.jpg" group-title="HOLLYWOOD MOVIES",ON THE JOB (2013)
 https://evif.onthecloudcdn.com/_v10/ca3e9409f46014581381951c8ef451a6f78605bc20c2c9d078d7c79309f265717b1ce7e58ab47f8febbc4512546dccbf456f8d4c95a624275b724ae799b63ac37949f2d272b2c76fe67bde021d820094b4338a3e7979387e826acce231a7d640049bcecd75991d33a7c01600a1295c3e6ae3a22bffff525e1d5b46c84b5fc628f746acdbf524645319ac2c5c8f26e304/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/a7/15/a7157a54779b04e4d953546832c5deb8/a7157a54779b04e4d953546832c5deb8.jpg" group-title="HOLLYWOOD MOVIES",MISSED CONNECTIONS (2023)
-https://evif.onthecloudcdn.com/_v10/d1ab6c9329987c082c70c2caecdee6fed74b5ceea3e61a986cadbb7bc6816a43601b567991367372cebdb3298d75382857f2f5fff9b3e183d8ba3b76942b17e53358805b28a2486b8ca37cb7cb0f7d910668c73fc6a1c0fab9bdb5ec1ac306822cfd7e0c636252d740a73f463eed582e5d9e8b2d22e28d166637e9591c3a6afb360c5f8d034052544e3f4b60fb1022e9/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/d1ab6c9329987c082c70c2caecdee6fed74b5ceea3e61a986cadbb7bc6816a43601b567991367372cebdb3298d75382857f2f5fff9b3e183d8ba3b76942b17e53358805b28a2486b8ca37cb7cb0f7d910668c73fc6a1c0fab9bdb5ec1ac306822cfd7e0c636252d740a73f463eed582e5d9e8b2d22e28d166637e9591c3a6afb360c5f8d034052544e3f4b60fb1022e9/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/1a/d5/1ad53d85b2f66103d1b969d0bd18795f/1ad53d85b2f66103d1b969d0bd18795f.jpg" group-title="HOLLYWOOD MOVIES",CABIN FEVER (2003)
-https://evif.onthecloudcdn.com/_v10/ee8c1afbc6ff3ea706cb14896fba12540c5f5af71ed4657dd9b533e01458624e8441298429f88abc386a286bb288ce32b4ec7ff249fcd78aa45a1a82736ab682f26b52e48f55c63ebe92ae74ed23f4852489c4a1a521def26ebb0d96f69ed42e4e12bfb60a2652838c739a090e8952bacd51593d42ebef26c7eac309bc78cefe8157c4511793d7893fb688e69b1fa71d/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/ee8c1afbc6ff3ea706cb14896fba12540c5f5af71ed4657dd9b533e01458624e8441298429f88abc386a286bb288ce32b4ec7ff249fcd78aa45a1a82736ab682f26b52e48f55c63ebe92ae74ed23f4852489c4a1a521def26ebb0d96f69ed42e4e12bfb60a2652838c739a090e8952bacd51593d42ebef26c7eac309bc78cefe8157c4511793d7893fb688e69b1fa71d/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/b1/20/b12016981532db9a8836867c6a24d306/b12016981532db9a8836867c6a24d306.jpg" group-title="HOLLYWOOD MOVIES",THE CABIN (2013)
-https://evif.onthecloudcdn.com/_v10/ae637f08666df2624750dca32792d4d7a4005f3f886d8c9c16e6613171f8dff1ad8d1ae94d1bca97bdc13109add038051433d9044464cac1997d94a1927a7a9e3457d03af5edae6e04d6fde005c2ad978cd7ac2f8636159f976745ad88b44e532317b505e8d3566154259a5ebac142dc0d2806e3a4701b6cff8666955d98aa8369547510c7570817d6d945ae24c8dc3b/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/ae637f08666df2624750dca32792d4d7a4005f3f886d8c9c16e6613171f8dff1ad8d1ae94d1bca97bdc13109add038051433d9044464cac1997d94a1927a7a9e3457d03af5edae6e04d6fde005c2ad978cd7ac2f8636159f976745ad88b44e532317b505e8d3566154259a5ebac142dc0d2806e3a4701b6cff8666955d98aa8369547510c7570817d6d945ae24c8dc3b/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/08/ee/08eea8f493cdca55322275991994f2a2/08eea8f493cdca55322275991994f2a2.jpg" group-title="HOLLYWOOD MOVIES",CABIN FEVER: PATIENT ZERO (2014)
-https://evif.onthecloudcdn.com/_v10/5be440d9806317482f24b277e9f071ea420d7caf6e0132e8a4901fac8a7848f04a3e2960e9fea4e86caf1b590db9e7ab54ba53f1ce92c97fbeed6a6d34f34a2de581f7d30d2dd3ffcd951bd2215203869a41d3fd1ba492db2167f8f5c8c8d8a2eb3e2e34999c947d7daa2a931185165b78101daad6b8a9f099e9ba2552e0b78ee153ff3baaccf0174ebd7149e9b6950c/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/5be440d9806317482f24b277e9f071ea420d7caf6e0132e8a4901fac8a7848f04a3e2960e9fea4e86caf1b590db9e7ab54ba53f1ce92c97fbeed6a6d34f34a2de581f7d30d2dd3ffcd951bd2215203869a41d3fd1ba492db2167f8f5c8c8d8a2eb3e2e34999c947d7daa2a931185165b78101daad6b8a9f099e9ba2552e0b78ee153ff3baaccf0174ebd7149e9b6950c/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/19/dc/19dcb305a7c6f39ad296bcb677362d6d/19dcb305a7c6f39ad296bcb677362d6d.jpg" group-title="HOLLYWOOD MOVIES",CABIN FEVER 2: SPRING FEVER (2009)
-https://evif.onthecloudcdn.com/_v10/032edbac8b44d34fc71cda7d645dffe70a6f991ced8e829052e272eef17dfd9c3777842747a6ee5b8ba75894c3f3485e813933a85117f9566c2ad7da1860f76b2e556c7965c9ec82f0f769c691a0d1658b2020a30d4767284a32cdad4128b14a9d9992060990c6a5037654452c4ff1c3386316b9ff2308ebb8a2c1f6425d4832ff761ef1b323cedc8b168647f6801a72/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/032edbac8b44d34fc71cda7d645dffe70a6f991ced8e829052e272eef17dfd9c3777842747a6ee5b8ba75894c3f3485e813933a85117f9566c2ad7da1860f76b2e556c7965c9ec82f0f769c691a0d1658b2020a30d4767284a32cdad4128b14a9d9992060990c6a5037654452c4ff1c3386316b9ff2308ebb8a2c1f6425d4832ff761ef1b323cedc8b168647f6801a72/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/a5/38/a5382b9b64c560cd0326c91729165693/a5382b9b64c560cd0326c91729165693.jpg	" group-title="HOLLYWOOD MOVIES",THE GIRL IN CABIN 13 (2021)
-https://evif.onthecloudcdn.com/_v10/e7c645ac81e2c961f230f1125b1f570ce4e4a51254c8adbe6ff697be29794b37016d354d8aa1aaee88cc158e6b7c8d3009ec54c94657e31c69aa6a7fe2f1196579a38f2f562cdda9047c8b125bc56c8ae4b17fe37e5dc0863547f83b56df2ae01ddbf98372d313e9c58b1b0cc6e96c8e0d764075043048c5244eb176aab215ae9a6b3d8aab405ac10f7017cdbd7aa781/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/e7c645ac81e2c961f230f1125b1f570ce4e4a51254c8adbe6ff697be29794b37016d354d8aa1aaee88cc158e6b7c8d3009ec54c94657e31c69aa6a7fe2f1196579a38f2f562cdda9047c8b125bc56c8ae4b17fe37e5dc0863547f83b56df2ae01ddbf98372d313e9c58b1b0cc6e96c8e0d764075043048c5244eb176aab215ae9a6b3d8aab405ac10f7017cdbd7aa781/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/e1/8b/e18b9813113e8f26bc655864702a9085/e18b9813113e8f26bc655864702a9085.jpg" group-title="HOLLYWOOD MOVIES",TITANIC (1997)
-https://evif.onthecloudcdn.com/_v10/8555570a154229fb5f91c1381b93da6ee7aefd31582a6ef3ddf27d0694b5e7583c339266f28086ab8fbc82cc2f268b8b9adfcbbf20eac18d23cb2d01383d6204205078bba8efb82593339a5bccb77d5f54fd988198164b76a24e7b67401bb5dbe4f2a435fbf51e16f4d2e345e04c7258f081e233d30011299de2585cb4989d509a049c7a1164eea24de4890bb8499714/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/8555570a154229fb5f91c1381b93da6ee7aefd31582a6ef3ddf27d0694b5e7583c339266f28086ab8fbc82cc2f268b8b9adfcbbf20eac18d23cb2d01383d6204205078bba8efb82593339a5bccb77d5f54fd988198164b76a24e7b67401bb5dbe4f2a435fbf51e16f4d2e345e04c7258f081e233d30011299de2585cb4989d509a049c7a1164eea24de4890bb8499714/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/eb/b0/ebb0e67d0f4ca6162977a29acd2ba025/ebb0e67d0f4ca6162977a29acd2ba025.jpg" group-title="HOLLYWOOD MOVIES",MYSTERIES FROM THE GRAVE: TITANIC (2022)
-https://evif.onthecloudcdn.com/_v10/ac30fd4ba42f5ee5ca4614eedd0e7e1c45788abf8cec93d5bcad2e1c4cf79a1e309c64104d32cc471197c52efd0f70922847bb82f5d2db2857104331b002dc3a32aee4d303dff817ac8b8577765182356026e2ad62369f28b49dcdbcd86122e8572bdfb46e90b855755d1ff4461747cb0f00ddf6e7b0088ec7ce1de31137ccba/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/ac30fd4ba42f5ee5ca4614eedd0e7e1c45788abf8cec93d5bcad2e1c4cf79a1e309c64104d32cc471197c52efd0f70922847bb82f5d2db2857104331b002dc3a32aee4d303dff817ac8b8577765182356026e2ad62369f28b49dcdbcd86122e8572bdfb46e90b855755d1ff4461747cb0f00ddf6e7b0088ec7ce1de31137ccba/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/5f/a8/5fa8476f0b03b6fc1971b9daa65418e4/5fa8476f0b03b6fc1971b9daa65418e4.jpg" group-title="HOLLYWOOD MOVIES",BACK TO THE TITANIC (2020)
-https://evif.onthecloudcdn.com/_v10/5a1c8bd453d254c38c2871d216db333d5c2ffb5d2ace7fe8f4953737e614a0895174432a44fda2e1955238c28b189939fae3ddb2bffda3a0ffa438c0be464afa5eada5912f825e6fdaa2852fc58337ae5286e85032014f256881d584d5e8969aa4fff9afdb499f6628c45483cf5552b6273e1a1334be02cd27b239c89f940ace56a2bca47e18716953296eda76eb87b7/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/5a1c8bd453d254c38c2871d216db333d5c2ffb5d2ace7fe8f4953737e614a0895174432a44fda2e1955238c28b189939fae3ddb2bffda3a0ffa438c0be464afa5eada5912f825e6fdaa2852fc58337ae5286e85032014f256881d584d5e8969aa4fff9afdb499f6628c45483cf5552b6273e1a1334be02cd27b239c89f940ace56a2bca47e18716953296eda76eb87b7/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/7d/b5/7db5b11640124cf1ce2d2181b92f0101/7db5b11640124cf1ce2d2181b92f0101.jpg" group-title="HOLLYWOOD MOVIES",TITANIC: 20 YEARS LATER WITH JAMES CAMERON (2017)
-https://evif.onthecloudcdn.com/_v10/abcfa57035543dbb101e5a19c17a1072d558939f01377d3bf6d5925cd02c3d8b011e03b54f72b75bfdf395dea3906659b7c6798618684f99c96458906f025982f34bf47f5849b4f6c8e139c8c054a5633032e63972d5d8c0298eff81ccec237f909b630c62cee7d5c11996fb9723207c6d86078d08534c79223eac2b89538d41ef6362fcad243e600138df76b17360de/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/abcfa57035543dbb101e5a19c17a1072d558939f01377d3bf6d5925cd02c3d8b011e03b54f72b75bfdf395dea3906659b7c6798618684f99c96458906f025982f34bf47f5849b4f6c8e139c8c054a5633032e63972d5d8c0298eff81ccec237f909b630c62cee7d5c11996fb9723207c6d86078d08534c79223eac2b89538d41ef6362fcad243e600138df76b17360de/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/de/1b/de1bdd943b0a035203347f3ea0466761/de1bdd943b0a035203347f3ea0466761.jpg" group-title="HOLLYWOOD MOVIES",DRAIN THE TITANIC (2016)
-https://evif.onthecloudcdn.com/_v10/e7bfd35ebb2516475b07df3599abe0cee5c479f6e1d733fc03bbfafd1b17a26bad0b7700f0e6a644e0f3e9b2914da4aa098a45676442e40042978846cd2e27edfdf9a1c7b9926a8af2aa16dfa9efa34917a31fec100bfce2273255ec24c751850d7e21ada7581ffc4cc97ba2d591d7bf46f6922479ad1d57c3c35643108b633f1e34656f958d793ed756f8ab79ea2c10/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/e7bfd35ebb2516475b07df3599abe0cee5c479f6e1d733fc03bbfafd1b17a26bad0b7700f0e6a644e0f3e9b2914da4aa098a45676442e40042978846cd2e27edfdf9a1c7b9926a8af2aa16dfa9efa34917a31fec100bfce2273255ec24c751850d7e21ada7581ffc4cc97ba2d591d7bf46f6922479ad1d57c3c35643108b633f1e34656f958d793ed756f8ab79ea2c10/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/fd/fa/fdfaee0cf2c0321390292d5d2f60c9b4/fdfaee0cf2c0321390292d5d2f60c9b4.jpg" group-title="HOLLYWOOD MOVIES",THROUGH MY WINDOW: ACROSS THE SEA (2023)
-https://evif.onthecloudcdn.com/_v10/c08130d8dda85f12a600651ad698ae79b1269f262f70f3b8e44184ba0fe7af53c362c72548d308fcb88c662958e46485198998534ee1a9a6ff8a5c365bea6a59407e652b82ba72652b50229ef613928f908c5022dfa58df5f0c88127f810bd052d17ade840b8f4a5db9617ed77539fd2117abc8d5302a589f683713d693de1e7a659e17409d0519f4cacefc70fb512c3/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/c08130d8dda85f12a600651ad698ae79b1269f262f70f3b8e44184ba0fe7af53c362c72548d308fcb88c662958e46485198998534ee1a9a6ff8a5c365bea6a59407e652b82ba72652b50229ef613928f908c5022dfa58df5f0c88127f810bd052d17ade840b8f4a5db9617ed77539fd2117abc8d5302a589f683713d693de1e7a659e17409d0519f4cacefc70fb512c3/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/91/67/91670229ac9f3b6fb4d242d6b5511644/91670229ac9f3b6fb4d242d6b5511644.jpg" group-title="HOLLYWOOD MOVIES",GUARDIANS OF THE GALAXY VOLUME 3 (2023)
-https://evif.onthecloudcdn.com/_v10/eb35769085af96f1ef48cf20a5fc19a5199736b3ca4e1c0b5eb5147cffdf827d6b90f79d02061163cceca17bfa1872a4ccd1af7fa02c1d400e7ac4f0d658e7e29e17535f9e2705d376697eed2a751cce7f1fdb1fd4a37c17cdf523508aa505abb5de1a7cdc8bf830317e44f8f4cbc60049fdf9dac1bfe3ab7b993a75ec4e54d34a13faa9112cd5af5f41bf6428fa9dbe/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/eb35769085af96f1ef48cf20a5fc19a5199736b3ca4e1c0b5eb5147cffdf827d6b90f79d02061163cceca17bfa1872a4ccd1af7fa02c1d400e7ac4f0d658e7e29e17535f9e2705d376697eed2a751cce7f1fdb1fd4a37c17cdf523508aa505abb5de1a7cdc8bf830317e44f8f4cbc60049fdf9dac1bfe3ab7b993a75ec4e54d34a13faa9112cd5af5f41bf6428fa9dbe/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/cd/a0/cda0d06b51c774088b2e78e5a32ab06d/cda0d06b51c774088b2e78e5a32ab06d.jpg" group-title="HOLLYWOOD MOVIES",GUARDIANS OF THE GALAXY VOLUME 2 (2017)
-https://owt.webarchivecdn.com/_v10/e8f2ca71650d1f7ead61a5a02b89cd4320a90816142a8fafd931edf9a679390d33911b9116c396a46f8adfba5c93c24c143376ba3b1a67071ac61676e5c75ced432f4c549361309c86b4ab2bfefea957fe85c08aefde492f7a146bff2e1c71641911a03ab45844d2336a09143c7278a1c0baa17a96630a3e4b60f67dd2398f4f6eeea164b6959c3f15ad3f5903903503/720/index.m3u8
+https://owt.webarchivecdn.com/_v10/e8f2ca71650d1f7ead61a5a02b89cd4320a90816142a8fafd931edf9a679390d33911b9116c396a46f8adfba5c93c24c143376ba3b1a67071ac61676e5c75ced432f4c549361309c86b4ab2bfefea957fe85c08aefde492f7a146bff2e1c71641911a03ab45844d2336a09143c7278a1c0baa17a96630a3e4b60f67dd2398f4f6eeea164b6959c3f15ad3f5903903503/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/73/54/735494826ef748837d8d0b1c34bd8221/735494826ef748837d8d0b1c34bd8221.jpg" group-title="HOLLYWOOD MOVIES",GUARDIANS OF THE GALAXY VOLUME 1 (2014)
-https://evif.onthecloudcdn.com/_v10/d962cd029fd0c2e86cff83c14afbbf52bddcba837d9b85b29f40bce8cf62c8cea59518ae087f88e7a15c8090074d541960280558979ae2e4dd2ba70e22344a73eda7813d2dcd5100ab00007fe62f72d73d2eba5c663b256fe7283d3e7c440d5bd03e0bab5b716ae25a2e043a278a339816df6cc6feeef9f67b90ecb7f9cdc75ab5be074d23dcbbc6bf19633b5d6276f0/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/d962cd029fd0c2e86cff83c14afbbf52bddcba837d9b85b29f40bce8cf62c8cea59518ae087f88e7a15c8090074d541960280558979ae2e4dd2ba70e22344a73eda7813d2dcd5100ab00007fe62f72d73d2eba5c663b256fe7283d3e7c440d5bd03e0bab5b716ae25a2e043a278a339816df6cc6feeef9f67b90ecb7f9cdc75ab5be074d23dcbbc6bf19633b5d6276f0/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/fe/64/fe6434ed5fc9d2d6842d1a792d310c62/fe6434ed5fc9d2d6842d1a792d310c62.jpg" group-title="HOLLYWOOD MOVIES",CONFIDENTIAL INFORMANT (2023)
-https://evif.onthecloudcdn.com/_v10/7e8eda99f02fc7495a29acdae7c85aac67a313faad43518a12005415a1c0be657ea282df5b688b2c570eed689aaffc7cc85a613a80aed75ad5eefb449e5db585d9392aaa40963c7d2a75b7bbc275598fe22472eae2dfbfc16a13decba0d8ba1f21a0892be9eda16c5161603eb3362e55f6fcf9502fc3014d15e2524d1b385a2267e3d4423f2a084780f46e1ede39ac64/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/7e8eda99f02fc7495a29acdae7c85aac67a313faad43518a12005415a1c0be657ea282df5b688b2c570eed689aaffc7cc85a613a80aed75ad5eefb449e5db585d9392aaa40963c7d2a75b7bbc275598fe22472eae2dfbfc16a13decba0d8ba1f21a0892be9eda16c5161603eb3362e55f6fcf9502fc3014d15e2524d1b385a2267e3d4423f2a084780f46e1ede39ac64/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/97/6a/976afa279423d8f7c7b37302f4cabc27/976afa279423d8f7c7b37302f4cabc27.jpg" group-title="HOLLYWOOD MOVIES",MAVKA: THE FOREST SONG (2023)
-https://evif.onthecloudcdn.com/_v10/b92d62b18a099a919e38f2c1e20abd4b49c4a723f530eda7b8e1b7e1d7acf2f1f9c24bafab303825a68b20eda9c659176ca5cced73bdb06df58170a6648787f29cc42f0c2e079ffdf524694b81e710853e6563434c33491b39a8d0edc7a48e8ebe82d2ac03696f71055ef5dd181a7ea87d291bd4e88844a569ce6edae69a10960d793c1cb0709ff6829860b3ec2dea76/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/b92d62b18a099a919e38f2c1e20abd4b49c4a723f530eda7b8e1b7e1d7acf2f1f9c24bafab303825a68b20eda9c659176ca5cced73bdb06df58170a6648787f29cc42f0c2e079ffdf524694b81e710853e6563434c33491b39a8d0edc7a48e8ebe82d2ac03696f71055ef5dd181a7ea87d291bd4e88844a569ce6edae69a10960d793c1cb0709ff6829860b3ec2dea76/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/53/e5/53e57ce273d6a2c61848bd5212abea54/53e57ce273d6a2c61848bd5212abea54.jpg" group-title="HOLLYWOOD MOVIES",NIMONA (2023)
-https://evif.onthecloudcdn.com/_v10/1d5f9b8cdd56cd286c62929c69687478b69a8c314e6ac7834908f493d9e45733f2a2005d6e16726f0ef51c9ee3a6f6949755ca8ae96eef7f2a886e4b82fc929dbbc8044ed290607d491549f31e21e84ea6761c3338dd0c6ee57308f1cd4d3a914af2edadcbd5ecb667d2562c96a71617721e0ffe9d0ce60dbf4e0178ef03ae933fb9e0093cf6759900c01aceedcdb360/720/index.m3u8
+https://evif.onthecloudcdn.com/_v10/1d5f9b8cdd56cd286c62929c69687478b69a8c314e6ac7834908f493d9e45733f2a2005d6e16726f0ef51c9ee3a6f6949755ca8ae96eef7f2a886e4b82fc929dbbc8044ed290607d491549f31e21e84ea6761c3338dd0c6ee57308f1cd4d3a914af2edadcbd5ecb667d2562c96a71617721e0ffe9d0ce60dbf4e0178ef03ae933fb9e0093cf6759900c01aceedcdb360/1080/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/87/fe/87fe4634ca04905fa05ff6c244f2a92d/87fe4634ca04905fa05ff6c244f2a92d.jpg" group-title="HOLLYWOOD MOVIES",THE FINAL DESTINATION 1 (2000)
+https://evif.onthecloudcdn.com/_v10/201876e4ef3886c36322fba9e0a759a743e7e6c4e9d2120d4a69533694c2c890ed0b054d2bdbfc7046d9c97a05cd2bf3d5677c52b6ebfccbf046a66b23c5d133dc0c502d6081cf001fb6aac3f9db53025e9da91f76a5ffdc056b9f724b52aca62cdb9dbd3b7f442e6b144941140a505bbf0b2a664d5a1c0fe05499b38798cec74433072e874f9b5c02427bc18bc0ad6a/1080/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.actvid.rs/xxrz/250x400/189/5a/73/5a7336e2a87c0cfba60170fd69b1129c/5a7336e2a87c0cfba60170fd69b1129c.jpg" group-title="HOLLYWOOD MOVIES",THE FINAL DESTINATION 2 (2003)
+https://evif.onthecloudcdn.com/_v10/c3c164b1d0e5e70ab640a049637e10e188258f5217135d60f8ee5b0a28651db9e768fd52f1e8a621ca05acfe7570ae34e60e1d04a22b43249c6225800f3de62ac1404be5ce706deccdd43cd324a178ffda18695a5f8358b60980d5e4fee50e18ff7bf86097c5d23126a06230e8ce2532fb57559a3ad10e11bed5c441d03cbef6/1080/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/5c/db/5cdb10fefd3edad583062a71671819a9/5cdb10fefd3edad583062a71671819a9.jpg" group-title="HOLLYWOOD MOVIES",THE FINAL DESTINATION 3 (2006)
+https://evif.onthecloudcdn.com/_v10/d203d946f3a0d54aa99aaaa7759ca61198c26713f89922ca72af775de10f45729a49997fe36435cc7d65e475596a777c6f5fea4a125bfd70dbe723e615a34d8c018a04ba0025df655f9865b04d409657d8c9b1aa7e01786818ebc7df53360f44c998f182e6a4f45799501275020c74d53bd69cb1d6ff84ed160dacbb6f303098348104a70928f728b76358c5b951b919/1080/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/eb/80/eb80e38ddd1837949209c60ec744170a/eb80e38ddd1837949209c60ec744170a.jpg" group-title="HOLLYWOOD MOVIES",THE FINAL DESTINATION 4 (2009)
+https://evif.onthecloudcdn.com/_v10/ca6f7dc4a5efd4f79489b41dc3262a6266a7a4383d0eef4dc7c07a002df0b5869822e8e7652194a603662a98b59b202a3e9048a1b7d9c0a6e62588130c4168852bdb26dd93c16e57ecf8961e2c8899e80327e2190e3525f4bd357bd29adc2b155e81e66cf9a7a048241abdf2bf2f07d3f7f9b722f915ec5a01ab2fc2d5746cf9/1080/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.actvid.com/xxrz/250x400/189/8d/65/8d6588ca49665ec223d40d48a30db91f/8d6588ca49665ec223d40d48a30db91f.jpg" group-title="HOLLYWOOD MOVIES",THE FINAL DESTINATION 5 (2011)
+https://evif.onthecloudcdn.com/_v10/571cbb0752fbd4dd48e70216181abc3d0facda6a0a254bb1d7e96ed96dec723916fef6c4686e77644b541530f27479bcd33d191a183378183c07e318ab6b47eb85679c45ea16b1decbe09583e7ff7fcdeded337070c675982529f4904e05d7709dd87fa656b77f4dd71da4a595d81da9095eae136a5f2acefd5b7d786b81eb4e/1080/index.m3u8
+
+#EXTINF:0 tvg-logo="https://img.actvid.rs/xxrz/250x400/189/67/7c/677c7ef012ccb3652a24abeae2aa1cf6/677c7ef012ccb3652a24abeae2aa1cf6.jpg" group-title="HOLLYWOOD MOVIES",SKINFORD DEATH SENTENCE (2023)
+https://evif.onthecloudcdn.com/_v10/92319158b18d186e2c76dd20ff4fe7ad16b1e983524f3a16ad721a8b484e49a3937bb5a60edb5c73795504681296b1f205df9c5254b226966ed4b246bef743b43f667769ece1bccb4922d92abc4f8301c7980fbae600b3a3b5abf2b903809c769419be61e953cec3c86102a080a3362a0415b689ca8634356b2a6894eed83b96aefffe929ed067cd7af4655fb772d510/1080/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="HOLLYWOOD MOVIES",
+
+#EXTINF:0 tvg-logo="" group-title="HOLLYWOOD MOVIES",
 
 #EXTINF:0 tvg-logo="" group-title="HOLLYWOOD MOVIES",
 
