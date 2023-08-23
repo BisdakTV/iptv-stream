@@ -1,0 +1,37 @@
+#EXTM3U 
+
+╔════════════╗
+║    𝐁𝐢𝐬𝐝𝐚𝐤𝐓𝐕    ║
+║     𝐅𝐞𝐢𝐭𝐚𝐧      ║
+║    𝐁𝐢𝐬𝐝𝐚𝐤𝐓𝐕    ║
+╚════════════╝
+
+
+#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",A2Z
+http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=926206&extension=ts
+
+#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",GMA 7
+
+#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",KAPAMILYA CHANNEL
+http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=731825&extension=ts
+
+#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",TV5 HD
+http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=926150&extension=ts
+
+#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",
+
+#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",
+
+#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",
+
+#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
