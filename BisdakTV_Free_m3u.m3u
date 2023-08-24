@@ -11,6 +11,9 @@ http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=926206&extension=
 #EXTINF:0 tvg-logo="https://i.imgur.com/Wv0K5Yc.png" group-title="Local TV",Buko
 http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=926198&extension=ts
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/xr6wdXS.png" group-title="Local TV",CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/TyFFBWn.png" group-title="Local TV",Deped TV
 http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=926186&extension=ts
 
@@ -34,3 +37,11 @@ http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=731807&extension=
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/zZWj5vn.png" group-title="Local TV",TFC
 http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=731803&extension=ts
+
+#EXTINF:0 tvg-logo="" group-title="Local Movies",
+
+#EXTINF:0 tvg-logo="" group-title="Local Movies",
+
+#EXTINF:0 tvg-logo="" group-title="Local Movies",
+
+#EXTINF:0 tvg-logo="" group-title="Local Movies",
