@@ -6,7 +6,7 @@
 
 
 #EXTINF:0 tvg-logo="" group-title="Local TV",A2Z
-http://iptvh.it/A2Z
+http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=926206&extension=ts
 
 #EXTINF:0 tvg-logo="" group-title="Local TV",Buko
 http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=926198&extension=ts
