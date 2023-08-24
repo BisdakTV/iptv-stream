@@ -22,7 +22,6 @@ http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=731830&extension=
 
 #EXTINF:0 tvg-logo="" group-title="Local TV",Kapamilya Channel
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692894767/ei/zzHnZNCcK_mX1d8P3K6boA8/ip/49.145.116.108/id/EItyNYtoXd0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ph/siu/1/spc/UWF9f5pCWC-yTT39lYpQKtZUMdnhrFx8PUvklUrp0FQMIitay7QBR-g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfgTBYSdaYfb1GefFRfAEzlm_v7unwiC8x45TA3zddywCIAm_ZqswS71nNdbhJatsONtidHnAyoO3ghr1Jrd3odw9/file/index.m3u8
-http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=731825&extension=ts
 
 #EXTINF:0 tvg-logo="" group-title="Local TV",Kapatid TV 5
 http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=926150&extension=ts
