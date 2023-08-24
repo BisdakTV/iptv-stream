@@ -1,34 +1,36 @@
 #EXTM3U 
 
-╔════════════╗
-║  𝐁𝐢𝐬𝐝𝐚𝐤𝐓𝐕  ║
-╚════════════╝
+╔═════════════╗
+║   BisdakTV  ║
+╚═════════════╝
 
-#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",A2Z
+
+#EXTINF:0 tvg-logo="" group-title="Local TV",A2Z
 http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=926206&extension=ts
 
-#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",GMA 7
+#EXTINF:0 tvg-logo="" group-title="Local TV",Buko
+http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=926198&extension=ts
 
-#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",KAPAMILYA CHANNEL
+#EXTINF:0 tvg-logo="" group-title="Local TV",Deped TV
+http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=926186&extension=ts
+
+#EXTINF:0 tvg-logo="" group-title="Local TV",GMA 7
+http://nxtplay.xyz/play/live.php?mac=00:1A:79:BA:A9:2F&stream=354661&extension=ts
+
+#EXTINF:0 tvg-logo="" group-title="Local TV",IBC 13
+http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=731830&extension=ts
+
+#EXTINF:0 tvg-logo="" group-title="Local TV",Kapamilya Channel
 http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=731825&extension=ts
 
-#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",TV5 HD
+#EXTINF:0 tvg-logo="" group-title="Local TV",Kapatid TV 5
 http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=926150&extension=ts
 
-#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",
+#EXTINF:0 tvg-logo="" group-title="Local TV",PTV
+http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=731809&extension=ts
 
-#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",
+#EXTINF:0 tvg-logo="" group-title="Local TV",Sari Sari Channel
+http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=731807&extension=ts
 
-#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",
-
-#EXTINF:0 tvg-logo="" group-title="LOCAL CHANNELS",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
-
-#EXTINF:0 tvg-logo="" group-title="",
+#EXTINF:0 tvg-logo="" group-title="Local TV",TFC
+http://watchtv.best/play/live.php?mac=00:1A:79:69:59:A4&stream=731803&extension=ts
